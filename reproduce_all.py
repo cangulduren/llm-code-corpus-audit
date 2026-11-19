@@ -10,7 +10,8 @@ import sys
 SCRIPTS = [
     ("Firth Logistic Regression Models (Table 7 & Sensitivity Models)", "fit_models.py"),
     ("Safe Alternatives & Unrequested Weaknesses Audit", "analyze_safe_alternatives.py"),
-    ("Exact Clopper-Pearson CIs & Rule-of-Three Recall Bounds", "compute_recall_ci.py"),
+    ("Exact Clopper-Pearson CIs & Negative Miss Rate Bounds", "compute_recall_ci.py"),
+    ("Exhaustive Broad Regex Audit of 8,004 Unflagged Routines", "audit_unflagged_regex.py"),
     ("McCabe Cyclomatic Complexity Validation vs Radon/McCabe", "validate_mccabe.py"),
     ("Forensic Python 2 Syntax Audit on Non-Parseable Code", "analyze_py2.py"),
 ]

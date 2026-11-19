@@ -19,7 +19,7 @@ print(f"1. Random Unflagged Sample (n = {n_rand}, k = {k_rand} misses):")
 print(f"   * Point estimate of miss rate: {k_rand/n_rand:.2%}")
 print(f"   * Exact 95% Clopper-Pearson CI: [{low_r:.4%}, {high_r:.4%}]")
 print(f"   * Rule-of-Three upper bound (3/n): {3/n_rand:.2%}")
-print(f"   * Population recall lower bound: {100 - high_r*100:.2f}%")
+print(f"   * Unflagged miss rate upper bound: {high_r*100:.2f}% (bounds unflagged false negatives, not global recall)")
 
 # Combined unflagged sample: n = 300, k = 0 misses (for CWE-676, CWE-703, CWE-617, CWE-78)
 n_tot = 300
@@ -29,7 +29,7 @@ print(f"\n2. Combined Unflagged Sample (n = {n_tot}, k = {k_tot} misses):")
 print(f"   * Point estimate of miss rate: {k_tot/n_tot:.2%}")
 print(f"   * Exact 95% Clopper-Pearson CI: [{low_t:.4%}, {high_t:.4%}]")
 print(f"   * Rule-of-Three upper bound (3/n): {3/n_tot:.2%}")
-print(f"   * Population recall lower bound: {100 - high_t*100:.2f}%")
+print(f"   * Unflagged miss rate upper bound: {high_t*100:.2f}% (bounds unflagged false negatives, not global recall)")
 
 # CWE-400 enriched stratum: n = 150, k = 1 miss
 n_enr = 150
