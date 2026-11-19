@@ -1,0 +1,13 @@
+{
+  "items_A.jsonl": "43d55d03c4ab2e9732fe5c95e3b82bbb984c654cbc15dc7ddad0ca1d2c06f1bd",
+  "items_B.jsonl": "53af08b5fa684e45d0772620b402820df98f564ec4970fdf9b29ac3bf4f2c500",
+  "items_C.jsonl": "6aab9135729b0c02bf5ed7948f882aeaf1eab35b2aa8da733f0f4f4bf9f5403a",
+  "codebook.md": "66f2c3fa84b096db85321d325bcee377a9dd5da12417a5b766c74e8593778c8a",
+  "annotators": {
+    "annotator1": "İlker Yoncacı, independent expert, blind to detector output",
+    "annotator2": "Yücel Tekin, independent expert, blind to detector output",
+    "adjudicator": "Can Güldüren"
+  },
+  "frozen": "2026-10-03",
+  "adjudicated_fields": 17
+}

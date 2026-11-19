@@ -1,0 +1,7 @@
+﻿CWE,Rule,Events,Snippets,Confirmed (precision),Est. recall,Mapped Bandit test,Requested / relevant
+CWE-676,"Built-in eval, exec, compile, __import__",19,19,18/19 (95%),100%,19/19,10 / 18
+CWE-703,Bare except or pass-only handler,15,15,15/15 (100%),100%,1/15,8 / 7
+CWE-400,while True without exit or yield,7,7,7/7 (100%),63%,no test,2 / 7
+CWE-617,assert statement,9,8,8/8 (100%),100%,8/8,2 / 8
+CWE-78,os.system/popen/spawn/exec; shell=True,2,2,2/2 (100%),100%,2/2,2 / 2
+Total,—,52,50,49/50 (98%),—,—,23 / 41

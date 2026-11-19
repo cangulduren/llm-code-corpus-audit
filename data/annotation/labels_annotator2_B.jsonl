@@ -1,0 +1,150 @@
+{"item": "B001", "label": "python_code", "note": ""}
+{"item": "B002", "label": "python_code", "note": ""}
+{"item": "B003", "label": "expression", "note": "JSON data object"}
+{"item": "B004", "label": "python_code", "note": ""}
+{"item": "B005", "label": "python_code", "note": ""}
+{"item": "B006", "label": "python_code", "note": ""}
+{"item": "B007", "label": "other_language", "note": "JS DOM API, valid Python syntax coincidentally"}
+{"item": "B008", "label": "other_language", "note": "JS alert() call"}
+{"item": "B009", "label": "python_code", "note": ""}
+{"item": "B010", "label": "python_code", "note": ""}
+{"item": "B011", "label": "python_code", "note": "assignment binding a list comprehension result, solution to a create-list task"}
+{"item": "B012", "label": "python_code", "note": ""}
+{"item": "B013", "label": "python_code", "note": ""}
+{"item": "B014", "label": "expression", "note": "JSON object"}
+{"item": "B015", "label": "python_code", "note": ""}
+{"item": "B016", "label": "other_language", "note": "MATLAB randperm(), coincidentally valid Python call syntax"}
+{"item": "B017", "label": "other_language", "note": "JS console.log"}
+{"item": "B018", "label": "python_code", "note": ""}
+{"item": "B019", "label": "other_language", "note": "shell command; coincidentally parses as df - h / mount / point"}
+{"item": "B020", "label": "expression", "note": "bare number with trailing comment"}
+{"item": "B021", "label": "expression", "note": "bare tuple of numbers"}
+{"item": "B022", "label": "other_language", "note": "Java println"}
+{"item": "B023", "label": "python_code", "note": ""}
+{"item": "B024", "label": "expression", "note": "bare hex-like identifier token"}
+{"item": "B025", "label": "expression", "note": "JSON object"}
+{"item": "B026", "label": "python_code", "note": ""}
+{"item": "B027", "label": "python_code", "note": "PySpark call is valid executable Python"}
+{"item": "B028", "label": "expression", "note": "bare list comprehension"}
+{"item": "B029", "label": "expression", "note": "bare number"}
+{"item": "B030", "label": "python_code", "note": ""}
+{"item": "B031", "label": "python_code", "note": ""}
+{"item": "B032", "label": "python_code", "note": ""}
+{"item": "B033", "label": "python_code", "note": ""}
+{"item": "B034", "label": "other_language", "note": "prompt asks JavaScript; array literal has no language-specific marker so prompt intent used"}
+{"item": "B035", "label": "other_language", "note": "raw HTTP request text, coincidentally valid via annotation-statement syntax"}
+{"item": "B036", "label": "other_language", "note": "prompt asks JavaScript; same reasoning as B034"}
+{"item": "B037", "label": "python_code", "note": ""}
+{"item": "B038", "label": "python_code", "note": ""}
+{"item": "B039", "label": "other_language", "note": "Ruby hash literal (unquoted symbol keys), prompt asks Ruby"}
+{"item": "B040", "label": "python_code", "note": ""}
+{"item": "B041", "label": "expression", "note": "bare number"}
+{"item": "B042", "label": "python_code", "note": ""}
+{"item": "B043", "label": "expression", "note": "prompt asks for a computed value; assignment used only to report the answer"}
+{"item": "B044", "label": "expression", "note": "bare number"}
+{"item": "B045", "label": "other_language", "note": "R assignment, coincidentally valid Python via < and - operators"}
+{"item": "B046", "label": "expression", "note": "bare boolean expression"}
+{"item": "B047", "label": "python_code", "note": ""}
+{"item": "B048", "label": "python_code", "note": ""}
+{"item": "B049", "label": "other_language", "note": "JS toFixed"}
+{"item": "B050", "label": "other_language", "note": "JS DOM style statement"}
+{"item": "B051", "label": "other_language", "note": "JS sort/console.log"}
+{"item": "B052", "label": "python_code", "note": ""}
+{"item": "B053", "label": "expression", "note": "bare list"}
+{"item": "B054", "label": "other_language", "note": "JS console.log"}
+{"item": "B055", "label": "other_language", "note": "Java println"}
+{"item": "B056", "label": "expression", "note": "bare nested list"}
+{"item": "B057", "label": "expression", "note": "bare word/classification label"}
+{"item": "B058", "label": "expression", "note": "JSON object"}
+{"item": "B059", "label": "python_code", "note": ""}
+{"item": "B060", "label": "expression", "note": "bare identifier/word"}
+{"item": "B061", "label": "expression", "note": "bare dict comprehension"}
+{"item": "B062", "label": "python_code", "note": ""}
+{"item": "B063", "label": "expression", "note": "bare lowercase word (not Python True)"}
+{"item": "B064", "label": "expression", "note": "bare word (unquoted string answer)"}
+{"item": "B065", "label": "python_code", "note": ""}
+{"item": "B066", "label": "expression", "note": "JSON object"}
+{"item": "B067", "label": "python_code", "note": ""}
+{"item": "B068", "label": "other_language", "note": "JS querySelectorAll"}
+{"item": "B069", "label": "expression", "note": "bare number"}
+{"item": "B070", "label": "python_code", "note": ""}
+{"item": "B071", "label": "expression", "note": "bare list"}
+{"item": "B072", "label": "python_code", "note": ""}
+{"item": "B073", "label": "python_code", "note": ""}
+{"item": "B074", "label": "other_language", "note": "JS window global assignment"}
+{"item": "B075", "label": "expression", "note": "bare number"}
+{"item": "B076", "label": "python_code", "note": ""}
+{"item": "B077", "label": "other_language", "note": "R matrix code, prompt asks R; coincidentally valid Python syntax"}
+{"item": "B078", "label": "python_code", "note": ""}
+{"item": "B079", "label": "expression", "note": "bare attribute-access expression"}
+{"item": "B080", "label": "other_language", "note": "prompt asks JavaScript key assignment"}
+{"item": "B081", "label": "python_code", "note": ""}
+{"item": "B082", "label": "expression", "note": "bare number"}
+{"item": "B083", "label": "expression", "note": "bare comma-separated words (implicit tuple)"}
+{"item": "B084", "label": "python_code", "note": ""}
+{"item": "B085", "label": "other_language", "note": "Java println"}
+{"item": "B086", "label": "python_code", "note": ""}
+{"item": "B087", "label": "other_language", "note": "JS console.log"}
+{"item": "B088", "label": "expression", "note": "bare nested list"}
+{"item": "B089", "label": "expression", "note": "bare list comprehension"}
+{"item": "B090", "label": "python_code", "note": ""}
+{"item": "B091", "label": "other_language", "note": "JS alert"}
+{"item": "B092", "label": "other_language", "note": "Java println"}
+{"item": "B093", "label": "python_code", "note": ""}
+{"item": "B094", "label": "python_code", "note": ""}
+{"item": "B095", "label": "other_language", "note": "prompt asks Ruby swap idiom; syntax identical to Python, prompt intent used"}
+{"item": "B096", "label": "python_code", "note": ""}
+{"item": "B097", "label": "python_code", "note": ""}
+{"item": "B098", "label": "expression", "note": "bare list"}
+{"item": "B099", "label": "expression", "note": "bare list"}
+{"item": "B100", "label": "expression", "note": "bare number"}
+{"item": "B101", "label": "expression", "note": "bare list"}
+{"item": "B102", "label": "expression", "note": "bare number"}
+{"item": "B103", "label": "python_code", "note": ""}
+{"item": "B104", "label": "expression", "note": "bare number"}
+{"item": "B105", "label": "expression", "note": "bare lambda expression"}
+{"item": "B106", "label": "expression", "note": "bare word"}
+{"item": "B107", "label": "expression", "note": "JSON array"}
+{"item": "B108", "label": "python_code", "note": ""}
+{"item": "B109", "label": "expression", "note": "answer to output question, phrased as annotation-like statement"}
+{"item": "B110", "label": "other_language", "note": "JS DOM style statement"}
+{"item": "B111", "label": "other_language", "note": "prompt asks Java; index assignment with semicolon"}
+{"item": "B112", "label": "python_code", "note": ""}
+{"item": "B113", "label": "python_code", "note": ""}
+{"item": "B114", "label": "other_language", "note": "JS array .length reset"}
+{"item": "B115", "label": "expression", "note": "bare number"}
+{"item": "B116", "label": "other_language", "note": "JS fetch API"}
+{"item": "B117", "label": "python_code", "note": ""}
+{"item": "B118", "label": "expression", "note": "bare list"}
+{"item": "B119", "label": "python_code", "note": "list.sort(reverse=True) is Python-specific API; prompt is language-agnostic"}
+{"item": "B120", "label": "expression", "note": "bare list of strings"}
+{"item": "B121", "label": "expression", "note": "answer values to a C++ output question, phrased as assignments"}
+{"item": "B122", "label": "python_code", "note": ""}
+{"item": "B123", "label": "expression", "note": "bare word (type name)"}
+{"item": "B124", "label": "other_language", "note": "Ruby hash literal, prompt asks Ruby"}
+{"item": "B125", "label": "expression", "note": "bare number"}
+{"item": "B126", "label": "python_code", "note": ""}
+{"item": "B127", "label": "python_code", "note": ""}
+{"item": "B128", "label": "python_code", "note": ""}
+{"item": "B129", "label": "expression", "note": "bare subscript expression"}
+{"item": "B130", "label": "expression", "note": "answer to a conversion question, phrased as assignment"}
+{"item": "B131", "label": "other_language", "note": "JS console.log"}
+{"item": "B132", "label": "python_code", "note": ""}
+{"item": "B133", "label": "expression", "note": "bare list"}
+{"item": "B134", "label": "expression", "note": "bare list"}
+{"item": "B135", "label": "python_code", "note": ""}
+{"item": "B136", "label": "expression", "note": "bare list"}
+{"item": "B137", "label": "python_code", "note": ""}
+{"item": "B138", "label": "python_code", "note": ""}
+{"item": "B139", "label": "other_language", "note": "JS console.log() named as an answer"}
+{"item": "B140", "label": "python_code", "note": ""}
+{"item": "B141", "label": "expression", "note": "bare list"}
+{"item": "B142", "label": "other_language", "note": "JS document.cookie"}
+{"item": "B143", "label": "other_language", "note": "JS console.log"}
+{"item": "B144", "label": "expression", "note": "bare number"}
+{"item": "B145", "label": "python_code", "note": ""}
+{"item": "B146", "label": "python_code", "note": ""}
+{"item": "B147", "label": "expression", "note": "bare number"}
+{"item": "B148", "label": "python_code", "note": ""}
+{"item": "B149", "label": "python_code", "note": ""}
+{"item": "B150", "label": "python_code", "note": ""}

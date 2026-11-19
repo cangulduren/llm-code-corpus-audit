@@ -1,0 +1,200 @@
+{"item": "C001", "label": "prose", "note": ""}
+{"item": "C002", "label": "malformed_python", "note": "def body has a // comment (invalid token) and misuses for/else logic marker"}
+{"item": "C003", "label": "other_language", "note": "C++"}
+{"item": "C004", "label": "prose", "note": ""}
+{"item": "C005", "label": "other_language", "note": "SQL"}
+{"item": "C006", "label": "malformed_python", "note": "indentation error, function body not indented"}
+{"item": "C007", "label": "other_language", "note": "JavaScript"}
+{"item": "C008", "label": "other_language", "note": "HTML"}
+{"item": "C009", "label": "malformed_python", "note": "trailing // JS-style comment breaks parsing"}
+{"item": "C010", "label": "malformed_python", "note": "prose intro followed by runnable Python function, mixed"}
+{"item": "C011", "label": "other_language", "note": "JavaScript/Node"}
+{"item": "C012", "label": "other_language", "note": "JavaScript switch"}
+{"item": "C013", "label": "malformed_python", "note": "bare regex pattern missing string quotes, backslash causes syntax error"}
+{"item": "C014", "label": "malformed_python", "note": "Python function followed directly by explanatory prose with no separator"}
+{"item": "C015", "label": "prose", "note": ""}
+{"item": "C016", "label": "other_language", "note": "JavaScript"}
+{"item": "C017", "label": "prose", "note": ""}
+{"item": "C018", "label": "other_language", "note": "CSS"}
+{"item": "C019", "label": "malformed_python", "note": "Python function definition immediately followed by prose explanation"}
+{"item": "C020", "label": "malformed_python", "note": "smart/curly quotes around string literal are invalid"}
+{"item": "C021", "label": "other_language", "note": "Angular/TypeScript"}
+{"item": "C022", "label": "prose", "note": "single word fragment"}
+{"item": "C023", "label": "other_language", "note": "JavaScript arrow function"}
+{"item": "C024", "label": "other_language", "note": "JS-style regex literal delimited by slashes"}
+{"item": "C025", "label": "prose", "note": ""}
+{"item": "C026", "label": "other_language", "note": "SQL"}
+{"item": "C027", "label": "prose", "note": ""}
+{"item": "C028", "label": "malformed_python", "note": "placeholder <insert code to print...> is not valid syntax"}
+{"item": "C029", "label": "other_language", "note": "SQL"}
+{"item": "C030", "label": "other_language", "note": "CSS"}
+{"item": "C031", "label": "other_language", "note": "JavaScript"}
+{"item": "C032", "label": "other_language", "note": "JavaScript"}
+{"item": "C033", "label": "other_language", "note": "Angular/TypeScript"}
+{"item": "C034", "label": "malformed_python", "note": "prose intro followed by runnable zipfile code, mixed"}
+{"item": "C035", "label": "other_language", "note": "JavaScript"}
+{"item": "C036", "label": "prose", "note": ""}
+{"item": "C037", "label": "malformed_python", "note": "prose intro plus runnable code plus trailing // Output comment"}
+{"item": "C038", "label": "other_language", "note": "pseudo-code / C-like with braces and no Python syntax"}
+{"item": "C039", "label": "other_language", "note": "MongoDB query"}
+{"item": "C040", "label": "malformed_python", "note": "tabs used inconsistently after initial 4-space line, causing indentation error"}
+{"item": "C041", "label": "other_language", "note": "R"}
+{"item": "C042", "label": "prose", "note": ""}
+{"item": "C043", "label": "prose", "note": ""}
+{"item": "C044", "label": "other_language", "note": "SQL"}
+{"item": "C045", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C046", "label": "other_language", "note": "Java"}
+{"item": "C047", "label": "prose", "note": ""}
+{"item": "C048", "label": "other_language", "note": "JavaScript class"}
+{"item": "C049", "label": "prose", "note": ""}
+{"item": "C050", "label": "prose", "note": "explanation quoting a syntax fragment inline"}
+{"item": "C051", "label": "other_language", "note": "JavaScript"}
+{"item": "C052", "label": "other_language", "note": "SQL"}
+{"item": "C053", "label": "other_language", "note": "jQuery/JavaScript"}
+{"item": "C054", "label": "malformed_python", "note": "prose intro followed by a complete runnable Python example"}
+{"item": "C055", "label": "prose", "note": ""}
+{"item": "C056", "label": "other_language", "note": "SQL"}
+{"item": "C057", "label": "malformed_python", "note": "trailing 'Output: ...' text with colons breaks parsing"}
+{"item": "C058", "label": "malformed_python", "note": "trailing 'Output:\\nTrue' breaks parsing"}
+{"item": "C059", "label": "other_language", "note": "HTML"}
+{"item": "C060", "label": "other_language", "note": "SQL"}
+{"item": "C061", "label": "prose", "note": ""}
+{"item": "C062", "label": "other_language", "note": "JavaScript"}
+{"item": "C063", "label": "malformed_python", "note": "trailing 'Output:\\n...' breaks parsing"}
+{"item": "C064", "label": "other_language", "note": "Redis command"}
+{"item": "C065", "label": "prose", "note": "plain Big-O value/fact, not code"}
+{"item": "C066", "label": "prose", "note": ""}
+{"item": "C067", "label": "malformed_python", "note": "prose intro followed by runnable eval() example"}
+{"item": "C068", "label": "malformed_python", "note": "truncated, unterminated string literal"}
+{"item": "C069", "label": "other_language", "note": "SQL"}
+{"item": "C070", "label": "prose", "note": ""}
+{"item": "C071", "label": "other_language", "note": "Java"}
+{"item": "C072", "label": "prose", "note": ""}
+{"item": "C073", "label": "prose", "note": ""}
+{"item": "C074", "label": "prose", "note": ""}
+{"item": "C075", "label": "other_language", "note": "JavaScript"}
+{"item": "C076", "label": "other_language", "note": "Java"}
+{"item": "C077", "label": "other_language", "note": "R"}
+{"item": "C078", "label": "other_language", "note": "C++"}
+{"item": "C079", "label": "other_language", "note": "C# LINQ"}
+{"item": "C080", "label": "other_language", "note": "JavaScript"}
+{"item": "C081", "label": "other_language", "note": "JavaScript"}
+{"item": "C082", "label": "malformed_python", "note": "trailing 'Output:' block breaks parsing"}
+{"item": "C083", "label": "other_language", "note": "JavaScript"}
+{"item": "C084", "label": "other_language", "note": "SQL"}
+{"item": "C085", "label": "prose", "note": ""}
+{"item": "C086", "label": "other_language", "note": "C#"}
+{"item": "C087", "label": "prose", "note": ""}
+{"item": "C088", "label": "malformed_python", "note": "valid function then '---' separator and a second stray instruction/output block appended"}
+{"item": "C089", "label": "other_language", "note": "JavaScript"}
+{"item": "C090", "label": "prose", "note": ""}
+{"item": "C091", "label": "other_language", "note": "HTML"}
+{"item": "C092", "label": "prose", "note": "explanatory text written as a // comment line, no actual code"}
+{"item": "C093", "label": "prose", "note": "plain equation-style answer, not assignable Python"}
+{"item": "C094", "label": "malformed_python", "note": "bare try: with no except/finally clause is a syntax error"}
+{"item": "C095", "label": "malformed_python", "note": "indentation error, function body not indented"}
+{"item": "C096", "label": "other_language", "note": "HTML with script tag"}
+{"item": "C097", "label": "prose", "note": "explanation with a non-runnable illustrative snippet (comment-only if-body)"}
+{"item": "C098", "label": "prose", "note": ""}
+{"item": "C099", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C100", "label": "other_language", "note": "SQL"}
+{"item": "C101", "label": "other_language", "note": "TypeScript/Angular"}
+{"item": "C102", "label": "other_language", "note": "Java"}
+{"item": "C103", "label": "other_language", "note": "SQL"}
+{"item": "C104", "label": "prose", "note": ""}
+{"item": "C105", "label": "other_language", "note": "C++"}
+{"item": "C106", "label": "prose", "note": ""}
+{"item": "C107", "label": "other_language", "note": "Java with trailing comment block"}
+{"item": "C108", "label": "other_language", "note": "SQL"}
+{"item": "C109", "label": "other_language", "note": "JavaScript"}
+{"item": "C110", "label": "other_language", "note": "SQL"}
+{"item": "C111", "label": "malformed_python", "note": "truncated, unterminated call/string"}
+{"item": "C112", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C113", "label": "prose", "note": ""}
+{"item": "C114", "label": "other_language", "note": "HTML"}
+{"item": "C115", "label": "other_language", "note": "HTML with script"}
+{"item": "C116", "label": "prose", "note": ""}
+{"item": "C117", "label": "prose", "note": "example call/output pair given as plain answer text"}
+{"item": "C118", "label": "malformed_python", "note": "appears to be valid Flask/sqlite3 code; likely hidden tab/space inconsistency causes parse failure"}
+{"item": "C119", "label": "malformed_python", "note": "prose intro followed by runnable dictionary example code"}
+{"item": "C120", "label": "malformed_python", "note": "smart/curly quotes around first string literal are invalid"}
+{"item": "C121", "label": "other_language", "note": "JavaScript"}
+{"item": "C122", "label": "prose", "note": ""}
+{"item": "C123", "label": "malformed_python", "note": "unexpected indent, lines indented without an opening block"}
+{"item": "C124", "label": "prose", "note": ""}
+{"item": "C125", "label": "prose", "note": ""}
+{"item": "C126", "label": "other_language", "note": "C/C++ struct"}
+{"item": "C127", "label": "prose", "note": "explanation quoting a regex inline"}
+{"item": "C128", "label": "other_language", "note": "x86 assembly"}
+{"item": "C129", "label": "other_language", "note": "SQL"}
+{"item": "C130", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C131", "label": "malformed_python", "note": "looks like valid Python syntax; likely hidden character causing parse failure"}
+{"item": "C132", "label": "prose", "note": ""}
+{"item": "C133", "label": "malformed_python", "note": "invalid switch/case construct (not valid Python) plus indentation issues"}
+{"item": "C134", "label": "prose", "note": ""}
+{"item": "C135", "label": "prose", "note": "explanation quoting a method-call syntax inline"}
+{"item": "C136", "label": "malformed_python", "note": "unquoted-key object literal and indentation errors in function body"}
+{"item": "C137", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C138", "label": "prose", "note": ""}
+{"item": "C139", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C140", "label": "prose", "note": ""}
+{"item": "C141", "label": "other_language", "note": "SQL"}
+{"item": "C142", "label": "other_language", "note": "Java"}
+{"item": "C143", "label": "malformed_python", "note": "missing colon after function signature"}
+{"item": "C144", "label": "malformed_python", "note": "unescaped quotes inside string literal terminate it early"}
+{"item": "C145", "label": "other_language", "note": "JavaScript"}
+{"item": "C146", "label": "other_language", "note": "Swift"}
+{"item": "C147", "label": "other_language", "note": "Java class"}
+{"item": "C148", "label": "malformed_python", "note": "bare regex pattern missing string quotes, backslash causes syntax error"}
+{"item": "C149", "label": "other_language", "note": "SQL"}
+{"item": "C150", "label": "malformed_python", "note": "prose intro followed by a complete runnable Python example"}
+{"item": "C151", "label": "other_language", "note": "C++"}
+{"item": "C152", "label": "other_language", "note": "Java class"}
+{"item": "C153", "label": "other_language", "note": "HTML"}
+{"item": "C154", "label": "prose", "note": ""}
+{"item": "C155", "label": "other_language", "note": "SQL"}
+{"item": "C156", "label": "other_language", "note": "Java class"}
+{"item": "C157", "label": "prose", "note": "formal logic notation, not any programming language"}
+{"item": "C158", "label": "other_language", "note": "JavaScript"}
+{"item": "C159", "label": "malformed_python", "note": "trailing 'Output: Found!' with invalid ! token breaks parsing"}
+{"item": "C160", "label": "prose", "note": ""}
+{"item": "C161", "label": "other_language", "note": "JavaScript"}
+{"item": "C162", "label": "malformed_python", "note": "truncated, bare keyword"}
+{"item": "C163", "label": "other_language", "note": "JavaScript"}
+{"item": "C164", "label": "other_language", "note": "HTML with script"}
+{"item": "C165", "label": "malformed_python", "note": "prose intro followed by runnable class/try-except code, mixed"}
+{"item": "C166", "label": "prose", "note": ""}
+{"item": "C167", "label": "malformed_python", "note": "appears to be valid Python syntax; likely hidden character causing parse failure"}
+{"item": "C168", "label": "prose", "note": ""}
+{"item": "C169", "label": "other_language", "note": "C/Java-style declarations and semicolons"}
+{"item": "C170", "label": "other_language", "note": "SQL"}
+{"item": "C171", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C172", "label": "prose", "note": ""}
+{"item": "C173", "label": "other_language", "note": "SQL"}
+{"item": "C174", "label": "prose", "note": ""}
+{"item": "C175", "label": "prose", "note": ""}
+{"item": "C176", "label": "other_language", "note": "JavaScript"}
+{"item": "C177", "label": "malformed_python", "note": "indentation error, no nested indent levels"}
+{"item": "C178", "label": "other_language", "note": "Java"}
+{"item": "C179", "label": "other_language", "note": "HTML"}
+{"item": "C180", "label": "other_language", "note": "Java, missing braces for if body"}
+{"item": "C181", "label": "other_language", "note": "C++"}
+{"item": "C182", "label": "malformed_python", "note": "placeholder <uri of website> used unquoted as an argument"}
+{"item": "C183", "label": "other_language", "note": "JavaScript"}
+{"item": "C184", "label": "prose", "note": ""}
+{"item": "C185", "label": "malformed_python", "note": "valid loop followed by unmarked '# Output' plain-text lines"}
+{"item": "C186", "label": "other_language", "note": "SQL"}
+{"item": "C187", "label": "other_language", "note": "Java/JDBC"}
+{"item": "C188", "label": "other_language", "note": "Java class"}
+{"item": "C189", "label": "prose", "note": ""}
+{"item": "C190", "label": "other_language", "note": "JavaScript"}
+{"item": "C191", "label": "other_language", "note": "JavaScript object literal"}
+{"item": "C192", "label": "other_language", "note": "JavaScript"}
+{"item": "C193", "label": "malformed_python", "note": "unterminated string literal, missing closing quote"}
+{"item": "C194", "label": "prose", "note": ""}
+{"item": "C195", "label": "prose", "note": ""}
+{"item": "C196", "label": "prose", "note": ""}
+{"item": "C197", "label": "other_language", "note": "JavaScript"}
+{"item": "C198", "label": "malformed_python", "note": "indentation error, print not indented under if"}
+{"item": "C199", "label": "prose", "note": ""}
+{"item": "C200", "label": "other_language", "note": "HTML"}

@@ -1,0 +1,200 @@
+{"item": "C001", "label": "prose", "note": ""}
+{"item": "C002", "label": "malformed_python", "note": "Python with // comment"}
+{"item": "C003", "label": "other_language", "note": "C++"}
+{"item": "C004", "label": "prose", "note": ""}
+{"item": "C005", "label": "other_language", "note": "SQL"}
+{"item": "C006", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C007", "label": "other_language", "note": "JavaScript"}
+{"item": "C008", "label": "other_language", "note": "HTML"}
+{"item": "C009", "label": "malformed_python", "note": "Python with // output comment"}
+{"item": "C010", "label": "malformed_python", "note": "prose explanation followed by Python function (ambiguous vs prose)"}
+{"item": "C011", "label": "other_language", "note": "JavaScript/Node"}
+{"item": "C012", "label": "other_language", "note": "JavaScript"}
+{"item": "C013", "label": "other_language", "note": "regular expression; not listed explicitly (ambiguous vs prose)"}
+{"item": "C014", "label": "malformed_python", "note": "Python followed by prose"}
+{"item": "C015", "label": "prose", "note": ""}
+{"item": "C016", "label": "other_language", "note": "JavaScript"}
+{"item": "C017", "label": "prose", "note": ""}
+{"item": "C018", "label": "other_language", "note": "CSS"}
+{"item": "C019", "label": "malformed_python", "note": "Python followed by prose"}
+{"item": "C020", "label": "malformed_python", "note": "typographic quotes"}
+{"item": "C021", "label": "other_language", "note": "TypeScript/Angular"}
+{"item": "C022", "label": "prose", "note": "single word"}
+{"item": "C023", "label": "other_language", "note": "JavaScript"}
+{"item": "C024", "label": "other_language", "note": "regular expression literal (JS style)"}
+{"item": "C025", "label": "prose", "note": ""}
+{"item": "C026", "label": "other_language", "note": "SQL"}
+{"item": "C027", "label": "prose", "note": ""}
+{"item": "C028", "label": "malformed_python", "note": "placeholder line"}
+{"item": "C029", "label": "other_language", "note": "SQL"}
+{"item": "C030", "label": "other_language", "note": "CSS"}
+{"item": "C031", "label": "other_language", "note": "JavaScript"}
+{"item": "C032", "label": "other_language", "note": "JavaScript"}
+{"item": "C033", "label": "other_language", "note": "TypeScript/Angular"}
+{"item": "C034", "label": "malformed_python", "note": "mostly prose with Python example (ambiguous vs prose)"}
+{"item": "C035", "label": "other_language", "note": "JavaScript"}
+{"item": "C036", "label": "prose", "note": ""}
+{"item": "C037", "label": "malformed_python", "note": "prose plus Python with // comment"}
+{"item": "C038", "label": "prose", "note": "pseudo-code"}
+{"item": "C039", "label": "other_language", "note": "MongoDB shell"}
+{"item": "C040", "label": "malformed_python", "note": "mixed tabs/spaces indentation"}
+{"item": "C041", "label": "other_language", "note": "R"}
+{"item": "C042", "label": "prose", "note": ""}
+{"item": "C043", "label": "prose", "note": ""}
+{"item": "C044", "label": "other_language", "note": "SQL"}
+{"item": "C045", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C046", "label": "other_language", "note": "Java"}
+{"item": "C047", "label": "prose", "note": ""}
+{"item": "C048", "label": "other_language", "note": "JavaScript"}
+{"item": "C049", "label": "prose", "note": ""}
+{"item": "C050", "label": "prose", "note": "explanation with one inline Python call (ambiguous vs malformed_python)"}
+{"item": "C051", "label": "other_language", "note": "JavaScript"}
+{"item": "C052", "label": "other_language", "note": "SQL"}
+{"item": "C053", "label": "other_language", "note": "JavaScript/jQuery"}
+{"item": "C054", "label": "malformed_python", "note": "prose plus Python example"}
+{"item": "C055", "label": "prose", "note": ""}
+{"item": "C056", "label": "other_language", "note": "SQL"}
+{"item": "C057", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C058", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C059", "label": "other_language", "note": "HTML"}
+{"item": "C060", "label": "other_language", "note": "SQL"}
+{"item": "C061", "label": "prose", "note": ""}
+{"item": "C062", "label": "other_language", "note": "JavaScript"}
+{"item": "C063", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C064", "label": "other_language", "note": "Redis command"}
+{"item": "C065", "label": "prose", "note": "plain value"}
+{"item": "C066", "label": "prose", "note": ""}
+{"item": "C067", "label": "malformed_python", "note": "prose plus Python example"}
+{"item": "C068", "label": "malformed_python", "note": "truncated"}
+{"item": "C069", "label": "other_language", "note": "SQL"}
+{"item": "C070", "label": "prose", "note": ""}
+{"item": "C071", "label": "other_language", "note": "Java"}
+{"item": "C072", "label": "prose", "note": ""}
+{"item": "C073", "label": "prose", "note": ""}
+{"item": "C074", "label": "prose", "note": ""}
+{"item": "C075", "label": "other_language", "note": "JavaScript"}
+{"item": "C076", "label": "other_language", "note": "Java"}
+{"item": "C077", "label": "other_language", "note": "R"}
+{"item": "C078", "label": "other_language", "note": "C++"}
+{"item": "C079", "label": "other_language", "note": "C# LINQ"}
+{"item": "C080", "label": "other_language", "note": "JavaScript"}
+{"item": "C081", "label": "other_language", "note": "JavaScript"}
+{"item": "C082", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C083", "label": "other_language", "note": "JavaScript"}
+{"item": "C084", "label": "other_language", "note": "SQL"}
+{"item": "C085", "label": "prose", "note": ""}
+{"item": "C086", "label": "other_language", "note": "C#"}
+{"item": "C087", "label": "prose", "note": ""}
+{"item": "C088", "label": "malformed_python", "note": "Python with leaked instruction text"}
+{"item": "C089", "label": "other_language", "note": "JavaScript"}
+{"item": "C090", "label": "prose", "note": ""}
+{"item": "C091", "label": "other_language", "note": "HTML"}
+{"item": "C092", "label": "prose", "note": "only a //-style comment describing a function (ambiguous vs other_language)"}
+{"item": "C093", "label": "prose", "note": "plain value"}
+{"item": "C094", "label": "malformed_python", "note": "try without except"}
+{"item": "C095", "label": "malformed_python", "note": "indentation error"}
+{"item": "C096", "label": "other_language", "note": "HTML/JavaScript"}
+{"item": "C097", "label": "malformed_python", "note": "prose plus incomplete Python example"}
+{"item": "C098", "label": "prose", "note": ""}
+{"item": "C099", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C100", "label": "other_language", "note": "SQL"}
+{"item": "C101", "label": "other_language", "note": "TypeScript/Angular"}
+{"item": "C102", "label": "other_language", "note": "Java"}
+{"item": "C103", "label": "other_language", "note": "SQL"}
+{"item": "C104", "label": "prose", "note": ""}
+{"item": "C105", "label": "other_language", "note": "C++"}
+{"item": "C106", "label": "prose", "note": ""}
+{"item": "C107", "label": "other_language", "note": "Java"}
+{"item": "C108", "label": "other_language", "note": "SQL"}
+{"item": "C109", "label": "other_language", "note": "JavaScript"}
+{"item": "C110", "label": "other_language", "note": "SQL"}
+{"item": "C111", "label": "malformed_python", "note": "truncated"}
+{"item": "C112", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C113", "label": "prose", "note": ""}
+{"item": "C114", "label": "other_language", "note": "HTML"}
+{"item": "C115", "label": "other_language", "note": "HTML/JavaScript"}
+{"item": "C116", "label": "prose", "note": ""}
+{"item": "C117", "label": "prose", "note": "example call and output text; minimal code (ambiguous vs malformed_python)"}
+{"item": "C118", "label": "malformed_python", "note": "Python (Flask/sqlite) failing parse, likely indentation"}
+{"item": "C119", "label": "malformed_python", "note": "prose plus Python example"}
+{"item": "C120", "label": "malformed_python", "note": "typographic quotes"}
+{"item": "C121", "label": "other_language", "note": "JavaScript"}
+{"item": "C122", "label": "prose", "note": ""}
+{"item": "C123", "label": "malformed_python", "note": "unexpected indentation"}
+{"item": "C124", "label": "prose", "note": ""}
+{"item": "C125", "label": "prose", "note": ""}
+{"item": "C126", "label": "other_language", "note": "C/C++ struct"}
+{"item": "C127", "label": "prose", "note": "explanation containing a regex"}
+{"item": "C128", "label": "other_language", "note": "x86 assembly"}
+{"item": "C129", "label": "other_language", "note": "SQL"}
+{"item": "C130", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C131", "label": "malformed_python", "note": "appears to be valid Python; parse failure presumably due to hidden characters (ambiguous)"}
+{"item": "C132", "label": "prose", "note": ""}
+{"item": "C133", "label": "malformed_python", "note": "Python def with switch/case pseudo-syntax (ambiguous vs prose/pseudo-code)"}
+{"item": "C134", "label": "prose", "note": ""}
+{"item": "C135", "label": "prose", "note": "explanation with one inline call (ambiguous vs malformed_python)"}
+{"item": "C136", "label": "malformed_python", "note": "indentation errors plus output text"}
+{"item": "C137", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C138", "label": "prose", "note": ""}
+{"item": "C139", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C140", "label": "prose", "note": ""}
+{"item": "C141", "label": "other_language", "note": "SQL"}
+{"item": "C142", "label": "other_language", "note": "Java"}
+{"item": "C143", "label": "malformed_python", "note": "missing colon"}
+{"item": "C144", "label": "malformed_python", "note": "quote nesting error"}
+{"item": "C145", "label": "other_language", "note": "JavaScript"}
+{"item": "C146", "label": "other_language", "note": "Swift"}
+{"item": "C147", "label": "other_language", "note": "Java"}
+{"item": "C148", "label": "other_language", "note": "regular expression (ambiguous vs prose)"}
+{"item": "C149", "label": "other_language", "note": "SQL"}
+{"item": "C150", "label": "malformed_python", "note": "prose plus Python example"}
+{"item": "C151", "label": "other_language", "note": "C++"}
+{"item": "C152", "label": "other_language", "note": "Java"}
+{"item": "C153", "label": "other_language", "note": "HTML"}
+{"item": "C154", "label": "prose", "note": ""}
+{"item": "C155", "label": "other_language", "note": "SQL"}
+{"item": "C156", "label": "other_language", "note": "Java"}
+{"item": "C157", "label": "prose", "note": "first-order logic formula"}
+{"item": "C158", "label": "other_language", "note": "JavaScript"}
+{"item": "C159", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C160", "label": "prose", "note": ""}
+{"item": "C161", "label": "other_language", "note": "JavaScript"}
+{"item": "C162", "label": "prose", "note": "single keyword 'for' as answer"}
+{"item": "C163", "label": "other_language", "note": "JavaScript"}
+{"item": "C164", "label": "other_language", "note": "HTML"}
+{"item": "C165", "label": "malformed_python", "note": "prose plus Python fragments"}
+{"item": "C166", "label": "prose", "note": ""}
+{"item": "C167", "label": "malformed_python", "note": "appears to be valid Python; parse failure presumably due to hidden characters (ambiguous)"}
+{"item": "C168", "label": "prose", "note": ""}
+{"item": "C169", "label": "other_language", "note": "C-like (float declarations, braces)"}
+{"item": "C170", "label": "other_language", "note": "SQL"}
+{"item": "C171", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C172", "label": "prose", "note": ""}
+{"item": "C173", "label": "other_language", "note": "SQL"}
+{"item": "C174", "label": "prose", "note": ""}
+{"item": "C175", "label": "prose", "note": ""}
+{"item": "C176", "label": "other_language", "note": "JavaScript"}
+{"item": "C177", "label": "malformed_python", "note": "indentation lost"}
+{"item": "C178", "label": "other_language", "note": "Java"}
+{"item": "C179", "label": "other_language", "note": "HTML"}
+{"item": "C180", "label": "other_language", "note": "Java"}
+{"item": "C181", "label": "other_language", "note": "C++"}
+{"item": "C182", "label": "malformed_python", "note": "placeholder <uri of website>"}
+{"item": "C183", "label": "other_language", "note": "JavaScript"}
+{"item": "C184", "label": "prose", "note": ""}
+{"item": "C185", "label": "malformed_python", "note": "Python followed by output text"}
+{"item": "C186", "label": "other_language", "note": "SQL"}
+{"item": "C187", "label": "other_language", "note": "Java"}
+{"item": "C188", "label": "other_language", "note": "Java"}
+{"item": "C189", "label": "prose", "note": ""}
+{"item": "C190", "label": "other_language", "note": "JavaScript"}
+{"item": "C191", "label": "other_language", "note": "JavaScript"}
+{"item": "C192", "label": "other_language", "note": "JavaScript"}
+{"item": "C193", "label": "malformed_python", "note": "unterminated string"}
+{"item": "C194", "label": "prose", "note": ""}
+{"item": "C195", "label": "prose", "note": ""}
+{"item": "C196", "label": "prose", "note": ""}
+{"item": "C197", "label": "other_language", "note": "JavaScript"}
+{"item": "C198", "label": "malformed_python", "note": "indentation error"}
+{"item": "C199", "label": "prose", "note": ""}
+{"item": "C200", "label": "other_language", "note": "HTML"}

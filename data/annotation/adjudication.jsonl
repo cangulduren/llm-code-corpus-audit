@@ -1,0 +1,17 @@
+{"item": "A015", "field": "requested", "value": 0, "rationale": "Prompt asks for a calculator over an equation string but does not name eval/evaluation; codebook: asking for a computable result is not an explicit request."}
+{"item": "A028", "field": "requested", "value": 0, "rationale": "'Obtain the result of a given mathematical expression' does not name the construct; codebook compute-vs-evaluate rule."}
+{"item": "A042", "field": "requested", "value": 0, "rationale": "'Compute simple math expressions' does not name the construct."}
+{"item": "A131", "field": "requested", "value": 0, "rationale": "'Solve a math equation given in a string' does not name the construct."}
+{"item": "A103", "field": "requested", "value": 1, "rationale": "The assert is part of the input code that the prompt asks to reorganise; the construct is supplied by the prompt and preserved."}
+{"item": "A027", "field": "relevant", "value": 1, "rationale": "The assert guards a value derived from inputs and terminates the program on failure; codebook: 1 when in doubt about reuse risk."}
+{"item": "A270", "field": "p400", "value": 0, "rationale": "The loop condition can become false for other inputs; codebook requires a condition that can never become false."}
+{"item": "A270", "field": "requested", "value": null, "rationale": "No pattern present after adjudication."}
+{"item": "A270", "field": "relevant", "value": null, "rationale": "No pattern present after adjudication."}
+{"item": "A324", "field": "relevant", "value": 1, "rationale": "The bare except catches every exception (including interrupts) and replaces it with an unrelated error; codebook: 1 when in doubt."}
+{"item": "B036", "field": "label", "value": "python_code", "rationale": "The prompt names no language and the output is a Python list assignment."}
+{"item": "B079", "field": "label", "value": "expression", "rationale": "A bare attribute access given as the answer, not a program."}
+{"item": "C013", "field": "label", "value": "other_language", "rationale": "A bare regular expression is code in a pattern language, not Python and not prose."}
+{"item": "C148", "field": "label", "value": "other_language", "rationale": "Same output as C013; a bare regular expression."}
+{"item": "C038", "field": "label", "value": "prose", "rationale": "Pseudo-code mixing C-style braces with 'for i = 0 to'; codebook assigns pseudo-code to prose."}
+{"item": "C097", "field": "label", "value": "malformed_python", "rationale": "Explanation followed by a Python fragment; codebook assigns Python mixed with prose to malformed_python."}
+{"item": "C162", "field": "label", "value": "prose", "rationale": "A single keyword given as the answer is not a program."}

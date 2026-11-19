@@ -1,0 +1,7 @@
+﻿Comparison,Metric,"Group 1: mean (median, IQR)","Group 2: mean (median, IQR)",p,r,Cliff's δ,Hedges' g
+MBPP functions vs CodeAlpaca functions,LoC,"6.68 (5, 5.8)","7.38 (6, 4.0)",1.74 × 10⁻¹⁰,0.082,-0.128,-0.147
+MBPP functions vs CodeAlpaca functions,CC,"2.88 (2, 3.0)","2.65 (2, 2.0)",0.024,0.028,+0.044,+0.128
+"MBPP functions vs CodeAlpaca, all",LoC,"6.68 (5, 5.8)","6.02 (5, 5.0)",1.72 × 10⁻⁸,0.059,+0.110,+0.137
+"MBPP functions vs CodeAlpaca, all",CC,"2.88 (2, 3.0)","2.28 (2, 2.0)",1.48 × 10⁻²²,0.099,+0.183,+0.370
+CodeAlpaca functions vs CodeAlpaca scripts,LoC,"7.38 (6, 4.0)","3.73 (3, 4.0)",< 10⁻³⁰⁰,0.497,+0.593,+0.810
+CodeAlpaca functions vs CodeAlpaca scripts,CC,"2.65 (2, 2.0)","1.65 (1, 1.0)",3.44 × 10⁻²⁰⁴,0.325,+0.387,+0.669

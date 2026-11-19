@@ -1,0 +1,150 @@
+{"item": "B001", "label": "python_code", "note": ""}
+{"item": "B002", "label": "python_code", "note": ""}
+{"item": "B003", "label": "expression", "note": "JSON data"}
+{"item": "B004", "label": "python_code", "note": ""}
+{"item": "B005", "label": "python_code", "note": ""}
+{"item": "B006", "label": "python_code", "note": ""}
+{"item": "B007", "label": "other_language", "note": "JavaScript"}
+{"item": "B008", "label": "other_language", "note": "JavaScript"}
+{"item": "B009", "label": "python_code", "note": ""}
+{"item": "B010", "label": "python_code", "note": ""}
+{"item": "B011", "label": "python_code", "note": "assignment statement with list comprehension"}
+{"item": "B012", "label": "python_code", "note": ""}
+{"item": "B013", "label": "python_code", "note": ""}
+{"item": "B014", "label": "expression", "note": "JSON"}
+{"item": "B015", "label": "python_code", "note": ""}
+{"item": "B016", "label": "other_language", "note": "MATLAB"}
+{"item": "B017", "label": "other_language", "note": "JavaScript"}
+{"item": "B018", "label": "python_code", "note": ""}
+{"item": "B019", "label": "other_language", "note": "shell command"}
+{"item": "B020", "label": "expression", "note": "numeric answer"}
+{"item": "B021", "label": "expression", "note": "tuple of numbers as answer"}
+{"item": "B022", "label": "other_language", "note": "Java"}
+{"item": "B023", "label": "python_code", "note": ""}
+{"item": "B024", "label": "expression", "note": "hash string answer"}
+{"item": "B025", "label": "expression", "note": "JSON"}
+{"item": "B026", "label": "python_code", "note": ""}
+{"item": "B027", "label": "python_code", "note": "PySpark call"}
+{"item": "B028", "label": "expression", "note": "bare list comprehension as answer"}
+{"item": "B029", "label": "expression", "note": "numeric answer"}
+{"item": "B030", "label": "python_code", "note": ""}
+{"item": "B031", "label": "python_code", "note": ""}
+{"item": "B032", "label": "python_code", "note": ""}
+{"item": "B033", "label": "python_code", "note": ""}
+{"item": "B034", "label": "other_language", "note": "prompt asks for JavaScript; syntax identical in Python (ambiguous)"}
+{"item": "B035", "label": "other_language", "note": "raw HTTP request"}
+{"item": "B036", "label": "python_code", "note": "language-neutral prompt; valid Python assignment (ambiguous)"}
+{"item": "B037", "label": "python_code", "note": ""}
+{"item": "B038", "label": "python_code", "note": ""}
+{"item": "B039", "label": "other_language", "note": "Ruby hash"}
+{"item": "B040", "label": "python_code", "note": ""}
+{"item": "B041", "label": "expression", "note": "numeric answer"}
+{"item": "B042", "label": "python_code", "note": ""}
+{"item": "B043", "label": "expression", "note": "answer 'y = 17' for a C/Java snippet, not a program (ambiguous)"}
+{"item": "B044", "label": "expression", "note": "numeric answer"}
+{"item": "B045", "label": "other_language", "note": "R"}
+{"item": "B046", "label": "expression", "note": "single boolean expression, though prompt asks for Python (ambiguous)"}
+{"item": "B047", "label": "python_code", "note": ""}
+{"item": "B048", "label": "python_code", "note": ""}
+{"item": "B049", "label": "other_language", "note": "JavaScript toFixed"}
+{"item": "B050", "label": "other_language", "note": "JavaScript"}
+{"item": "B051", "label": "other_language", "note": "JavaScript"}
+{"item": "B052", "label": "python_code", "note": ""}
+{"item": "B053", "label": "expression", "note": "list answer"}
+{"item": "B054", "label": "other_language", "note": "JavaScript"}
+{"item": "B055", "label": "other_language", "note": "Java"}
+{"item": "B056", "label": "expression", "note": "list answer"}
+{"item": "B057", "label": "expression", "note": "single word"}
+{"item": "B058", "label": "expression", "note": "JSON"}
+{"item": "B059", "label": "python_code", "note": ""}
+{"item": "B060", "label": "expression", "note": "single word"}
+{"item": "B061", "label": "expression", "note": "bare dict comprehension as answer"}
+{"item": "B062", "label": "python_code", "note": ""}
+{"item": "B063", "label": "expression", "note": "single word"}
+{"item": "B064", "label": "expression", "note": "single word"}
+{"item": "B065", "label": "python_code", "note": ""}
+{"item": "B066", "label": "expression", "note": "JSON"}
+{"item": "B067", "label": "python_code", "note": ""}
+{"item": "B068", "label": "other_language", "note": "JavaScript"}
+{"item": "B069", "label": "expression", "note": "numeric answer"}
+{"item": "B070", "label": "python_code", "note": ""}
+{"item": "B071", "label": "expression", "note": "list data"}
+{"item": "B072", "label": "python_code", "note": ""}
+{"item": "B073", "label": "python_code", "note": ""}
+{"item": "B074", "label": "other_language", "note": "JavaScript"}
+{"item": "B075", "label": "expression", "note": "numeric answer"}
+{"item": "B076", "label": "python_code", "note": ""}
+{"item": "B077", "label": "other_language", "note": "R"}
+{"item": "B078", "label": "python_code", "note": ""}
+{"item": "B079", "label": "other_language", "note": "JavaScript property access; could also be read as bare expression (ambiguous)"}
+{"item": "B080", "label": "other_language", "note": "prompt asks JavaScript; syntax also valid Python (ambiguous)"}
+{"item": "B081", "label": "python_code", "note": ""}
+{"item": "B082", "label": "expression", "note": "numeric answer"}
+{"item": "B083", "label": "expression", "note": "list of words"}
+{"item": "B084", "label": "python_code", "note": "assignment with Python-style output comment"}
+{"item": "B085", "label": "other_language", "note": "Java"}
+{"item": "B086", "label": "python_code", "note": ""}
+{"item": "B087", "label": "other_language", "note": "JavaScript"}
+{"item": "B088", "label": "expression", "note": "matrix data"}
+{"item": "B089", "label": "expression", "note": "bare list comprehension as answer"}
+{"item": "B090", "label": "python_code", "note": ""}
+{"item": "B091", "label": "other_language", "note": "JavaScript"}
+{"item": "B092", "label": "other_language", "note": "Java"}
+{"item": "B093", "label": "python_code", "note": ""}
+{"item": "B094", "label": "python_code", "note": ""}
+{"item": "B095", "label": "other_language", "note": "prompt asks Ruby; swap syntax identical in Python (ambiguous)"}
+{"item": "B096", "label": "python_code", "note": ""}
+{"item": "B097", "label": "python_code", "note": ""}
+{"item": "B098", "label": "expression", "note": "list answer"}
+{"item": "B099", "label": "expression", "note": "list answer"}
+{"item": "B100", "label": "expression", "note": "numeric answer"}
+{"item": "B101", "label": "expression", "note": "list answer"}
+{"item": "B102", "label": "expression", "note": "numeric answer"}
+{"item": "B103", "label": "python_code", "note": ""}
+{"item": "B104", "label": "expression", "note": "numeric answer"}
+{"item": "B105", "label": "expression", "note": "bare lambda expression as answer (ambiguous; prompt asked for an expression)"}
+{"item": "B106", "label": "expression", "note": "single word"}
+{"item": "B107", "label": "expression", "note": "JSON"}
+{"item": "B108", "label": "python_code", "note": ""}
+{"item": "B109", "label": "expression", "note": "program output answer"}
+{"item": "B110", "label": "other_language", "note": "JavaScript"}
+{"item": "B111", "label": "other_language", "note": "Java"}
+{"item": "B112", "label": "python_code", "note": ""}
+{"item": "B113", "label": "python_code", "note": ""}
+{"item": "B114", "label": "other_language", "note": "JavaScript"}
+{"item": "B115", "label": "expression", "note": "numeric answer"}
+{"item": "B116", "label": "other_language", "note": "JavaScript fetch"}
+{"item": "B117", "label": "python_code", "note": ""}
+{"item": "B118", "label": "expression", "note": "list answer"}
+{"item": "B119", "label": "python_code", "note": "Python sort(reverse=True) with stray semicolon"}
+{"item": "B120", "label": "expression", "note": "list data"}
+{"item": "B121", "label": "expression", "note": "answer values for C++ snippet"}
+{"item": "B122", "label": "python_code", "note": ""}
+{"item": "B123", "label": "expression", "note": "single word"}
+{"item": "B124", "label": "other_language", "note": "Ruby hash"}
+{"item": "B125", "label": "expression", "note": "numeric answer"}
+{"item": "B126", "label": "python_code", "note": ""}
+{"item": "B127", "label": "python_code", "note": ""}
+{"item": "B128", "label": "python_code", "note": ""}
+{"item": "B129", "label": "expression", "note": "bare indexing expression as answer"}
+{"item": "B130", "label": "expression", "note": "answer value written as assignment (ambiguous)"}
+{"item": "B131", "label": "other_language", "note": "JavaScript"}
+{"item": "B132", "label": "python_code", "note": ""}
+{"item": "B133", "label": "expression", "note": "list answer"}
+{"item": "B134", "label": "expression", "note": "list answer"}
+{"item": "B135", "label": "python_code", "note": ""}
+{"item": "B136", "label": "expression", "note": "list answer"}
+{"item": "B137", "label": "python_code", "note": ""}
+{"item": "B138", "label": "python_code", "note": ""}
+{"item": "B139", "label": "other_language", "note": "JavaScript method name as answer; could be expression (ambiguous)"}
+{"item": "B140", "label": "python_code", "note": ""}
+{"item": "B141", "label": "expression", "note": "list answer"}
+{"item": "B142", "label": "other_language", "note": "JavaScript"}
+{"item": "B143", "label": "other_language", "note": "JavaScript"}
+{"item": "B144", "label": "expression", "note": "numeric answer"}
+{"item": "B145", "label": "python_code", "note": ""}
+{"item": "B146", "label": "python_code", "note": ""}
+{"item": "B147", "label": "expression", "note": "numeric answer"}
+{"item": "B148", "label": "python_code", "note": ""}
+{"item": "B149", "label": "python_code", "note": ""}
+{"item": "B150", "label": "python_code", "note": ""}

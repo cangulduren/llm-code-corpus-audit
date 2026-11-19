@@ -1,0 +1,4 @@
+﻿Corpus,Total (N),"Parseable, n (%)",Functions,Scripts,Expression-only,Other-language code,"Analysis set, n (%)"
+MBPP,974,974 (100.0%),974,0,0,0,974 (100.0%)
+CodeAlpaca-20k,"20,022","8,979 (44.8%)","5,039","3,015",767,158,"8,054 (40.2%)"
+Combined,"20,996","9,953 (47.4%)","6,013","3,015",767,158,"9,028 (43.0%)"

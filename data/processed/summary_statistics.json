@@ -1,0 +1,71 @@
+{
+    "total_samples": 20996,
+    "mbpp_samples": 974,
+    "alpaca_samples": 20022,
+    "syntax_valid_count": 9953,
+    "syntax_valid_pct": 47.40426747951991,
+    "vuln_samples_count": 53,
+    "vuln_rate_pct": 0.5325027629860344,
+    "mean_loc": 5.928765196423189,
+    "median_loc": 5.0,
+    "iqr_loc": 6.0,
+    "skew_loc": 3.2295609357708357,
+    "kurt_loc": 30.694383541286406,
+    "mean_cc": 2.00683211092133,
+    "median_cc": 1.0,
+    "iqr_cc": 2.0,
+    "skew_cc": 1.9570288964469653,
+    "kurt_cc": 6.383755773991519,
+    "mean_ast": 41.820255199437355,
+    "median_ast": 31.0,
+    "spearman_prompt_vuln_density": {
+        "rho": 0.005167657023469736,
+        "p_value": 0.6062116600368905
+    },
+    "spearman_cc_vuln_count": {
+        "rho": 0.014298241988210881,
+        "p_value": 0.1537662133290664
+    },
+    "spearman_loc_vuln_count": {
+        "rho": 0.014990043041195639,
+        "p_value": 0.1348169466219948
+    },
+    "spearman_ast_vuln_count": {
+        "rho": 0.00203541611231632,
+        "p_value": 0.8391057756128874
+    },
+    "mann_whitney_mbpp_vs_alpaca": {
+        "loc": {
+            "u_stat": 5053794.0,
+            "p_val": 9.406194123926388e-16,
+            "r_effect": 0.0801459982558664
+        },
+        "cc": {
+            "u_stat": 4918277.0,
+            "p_val": 4.753189987876761e-12
+        },
+        "vuln": {
+            "u_stat": 4346962.0,
+            "p_val": 0.016217230649830317
+        }
+    },
+    "cwe_counts": {
+        "CWE-676": 19,
+        "CWE-703": 15,
+        "CWE-400": 10,
+        "CWE-617": 9,
+        "CWE-78": 2
+    },
+    "mbpp_breakdown": {
+        "count": 974,
+        "mean_loc": 6.675564681724846,
+        "mean_cc": 2.341889117043121,
+        "vuln_rate_pct": 0.0
+    },
+    "alpaca_breakdown": {
+        "count": 8979,
+        "mean_loc": 5.847755874819022,
+        "mean_cc": 1.9704866911682815,
+        "vuln_rate_pct": 0.5902661766343691
+    }
+}

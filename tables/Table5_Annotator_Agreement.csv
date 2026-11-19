@@ -1,0 +1,10 @@
+﻿Judgement,Items,Agreement,Cohen's κ
+CWE-676 present,350,100.0%,1.000
+CWE-703 present,350,100.0%,1.000
+CWE-400 present,350,99.7%,0.940
+CWE-617 present,350,100.0%,1.000
+CWE-78 present,350,100.0%,1.000
+Construct requested,50,90.0%,0.802
+Plausible weakness,50,96.0%,0.865
+Type of parseable output,150,98.7%,0.979
+Type of non-parseable output,200,97.5%,0.961

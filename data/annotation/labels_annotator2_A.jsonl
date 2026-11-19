@@ -1,0 +1,350 @@
+{"item": "A001", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A002", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A003", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A004", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A005", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A006", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A007", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A008", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A009", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A010", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A011", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A012", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A013", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A014", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A015", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on function parameter (calculator equation)"}
+{"item": "A016", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A017", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A018", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break, so exit exists"}
+{"item": "A019", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A020", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A021", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A022", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A023", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A024", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A025", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except that prints, not bare/silent"}
+{"item": "A026", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A027", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 0, "note": "ambiguous: assert checks a locally computed division result, not raw external input"}
+{"item": "A028", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt says 'obtain the result of' not 'evaluate', so not explicit request"}
+{"item": "A029", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A030", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A031", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A032", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A033", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A034", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A035", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A036", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A037", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A038", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A039", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A040", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break, exit exists"}
+{"item": "A041", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A042", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt says 'compute' not 'evaluate'"}
+{"item": "A043", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A044", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A045", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly says expression 'evaluates'"}
+{"item": "A046", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A047", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks to 'evaluate' the expression"}
+{"item": "A048", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A049", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "float division underflows to 0.0 eventually, loop condition can become false"}
+{"item": "A050", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "R code, not Python"}
+{"item": "A051", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A052", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A053", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A054", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A055", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "re.compile is not builtin eval"}
+{"item": "A056", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A057", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A058", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A059", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A060", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A061", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A062", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A063", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A064", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A065", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A066", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A067", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A068", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A069", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A070", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "ambiguous: bare listing of builtin function names with parens (incl. eval()), reads as documentation not executed logic"}
+{"item": "A071", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A072", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except (KeyboardInterrupt) that reacts; serve_forever() is a library call, not a Python loop construct"}
+{"item": "A073", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "dataframe.eval is a pandas method, not builtin eval"}
+{"item": "A074", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A075", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A076", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A077", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A078", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A079", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A080", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A081", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "exec() on a string parameter; prompt explicitly asks to invoke statements within the string"}
+{"item": "A082", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A083", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A084", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A085", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A086", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks for an assert statement; validates external email input"}
+{"item": "A087", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A088", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A089", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "exec() on code parameter; prompt explicitly asks to execute a given block of code"}
+{"item": "A090", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A091", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A092", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A093", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A094", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A095", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 1, "requested": 1, "relevant": 1, "note": "ambiguous: command is a hardcoded literal (not parameterized), similar to eval-of-constant, but subprocess.run(...,shell=True) pattern generalizes easily to untrusted input"}
+{"item": "A096", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break on 'exit' input"}
+{"item": "A097", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A098", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "inner while count<len(arr)-1 loop never updates count or len(arr), no break/return/raise; will run forever or crash with IndexError (bug)"}
+{"item": "A099", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks for a long-running while loop; while True: pass has no exit"}
+{"item": "A100", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A101", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A102", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A103", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "assert validates name parameter type; prompt only asks to reorganize into two functions, assert was already present in given code"}
+{"item": "A104", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A105", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A106", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked to add a try-catch block; throwaway demo"}
+{"item": "A107", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked to add try-except"}
+{"item": "A108", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A109", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A110", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A111", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A112", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A113", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A114", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A115", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A116", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A117", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A118", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A119", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A120", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A121", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A122", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 0, "note": "ambiguous: typed except ValueError: pass, but narrow/idiomatic remove-if-absent pattern"}
+{"item": "A123", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "bare except used to set validity result in network-request logic, hides real errors"}
+{"item": "A124", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A125", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A126", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A127", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A128", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A129", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt asks to infer type of expression, not to evaluate"}
+{"item": "A130", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A131", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt says 'solve' not 'evaluate'"}
+{"item": "A132", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A133", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks to evaluate an expression stored as a string"}
+{"item": "A134", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "inner bare except only prints message; prompt asked to add try-catch blocks"}
+{"item": "A135", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A136", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A137", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except (FileNotFoundError) that prints, not bare/silent"}
+{"item": "A138", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A139", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A140", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A141", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A142", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A143", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "assert validates num parameter type; prompt only asked to check even/odd, not to add an assert"}
+{"item": "A144", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "break was added as requested, so loop has an exit"}
+{"item": "A145", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A146", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except ValueError that returns, not silent"}
+{"item": "A147", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A148", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A149", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A150", "p676": 1, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "eval() explicitly requested ('evaluate'); bare except: pass silently swallows eval errors was not explicitly requested"}
+{"item": "A151", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "bare except sets validation result, hides all parsing errors on external date input"}
+{"item": "A152", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A153", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A154", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A155", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A156", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A157", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A158", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A159", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked to add a try-catch block"}
+{"item": "A160", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A161", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A162", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "bare except used for token-parsing control flow in expression calculator, silently mishandles non-'*' tokens"}
+{"item": "A163", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A164", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A165", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A166", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A167", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A168", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A169", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A170", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A171", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A172", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A173", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A174", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A175", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "assert validates that input lists have equal length (external input)"}
+{"item": "A176", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A177", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A178", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A179", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break on correct-answer input"}
+{"item": "A180", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "assert validates name parameter type; prompt only asked for comments/error messages"}
+{"item": "A181", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A182", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly says 'Evaluate a mathematical expression given as a string'"}
+{"item": "A183", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A184", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A185", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A186", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A187", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A188", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A189", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A190", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks to evaluate a Python expression"}
+{"item": "A191", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A192", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A193", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A194", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A195", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break"}
+{"item": "A196", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A197", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A198", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A199", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A200", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A201", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A202", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "generator loop (yield), also terminates"}
+{"item": "A203", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A204", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A205", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A206", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A207", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A208", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A209", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A210", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A211", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A212", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A213", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A214", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A215", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A216", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A217", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A218", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A219", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A220", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A221", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A222", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A223", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A224", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A225", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "bare except swallowing DB delete errors, order_key from external input"}
+{"item": "A226", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A227", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A228", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A229", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except that prints, not bare/silent"}
+{"item": "A230", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A231", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A232", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A233", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A234", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A235", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A236", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A237", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A238", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly says function 'evaluates' a mathematical expression string"}
+{"item": "A239", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A240", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A241", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A242", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A243", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A244", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "exec() building an assignment from command-line arguments; classic injection risk"}
+{"item": "A245", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A246", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 1, "requested": 1, "relevant": 1, "note": "os.system() on a command-line argument; prompt explicitly asks to execute a given command-line argument"}
+{"item": "A247", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A248", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A249", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A250", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A251", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A252", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A253", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A254", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A255", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A256", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except KeyError that reacts, not silent"}
+{"item": "A257", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A258", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A259", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "while True chatbot loop has no break/return/raise anywhere; unbounded interactive service loop"}
+{"item": "A260", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A261", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A262", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A263", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A264", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A265", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A266", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A267", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A268", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A269", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A270", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "ambiguous: greedy pathfinder has no visited-set/backtracking and no break/return inside the while; for the given example it oscillates between two cells forever"}
+{"item": "A271", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "asserts validate that input matrices have matching dimensions"}
+{"item": "A272", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A273", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A274", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "while True game loop has no break/return/raise anywhere, no way to quit"}
+{"item": "A275", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A276", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt says 'calculate the value of' (like 'compute'), not 'evaluate'"}
+{"item": "A277", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A278", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A279", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A280", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked for a try-except block"}
+{"item": "A281", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A282", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except ValueError that prints, not bare/silent"}
+{"item": "A283", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A284", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A285", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A286", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except that logs and prints, not silent"}
+{"item": "A287", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A288", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A289", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "prompt explicitly asks to make it an infinite loop; while True with no break/return"}
+{"item": "A290", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A291", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A292", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A293", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A294", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A295", "p676": 0, "p703": 0, "p400": 0, "p617": 1, "p78": 0, "requested": 0, "relevant": 1, "note": "assert validates that input arrays have equal length"}
+{"item": "A296", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A297", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 1, "note": "eval() dynamically built from stack values and operator char; prompt explicitly asks to evaluate an expression"}
+{"item": "A298", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A299", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A300", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked to use try/except blocks"}
+{"item": "A301", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A302", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A303", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A304", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A305", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A306", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "buggy pointer-XOR logic, but no provable unconditional infinite loop"}
+{"item": "A307", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "loop condition can become false as list pointers advance to None; separate unrelated bugs (Node reassignment, undefined 'result')"}
+{"item": "A308", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A309", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "bare except swallows all DB errors in a record-retrieval routine"}
+{"item": "A310", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A311", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A312", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "while True accept loop has no break/return anywhere (no shutdown path)"}
+{"item": "A313", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A314", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "while True has a break on 'done' input"}
+{"item": "A315", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "training while True loop has no break/return/raise and no convergence check"}
+{"item": "A316", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except KeyError that returns, not silent; no eval() used (manual stack evaluator)"}
+{"item": "A317", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A318", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except that prints, not silent"}
+{"item": "A319", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A320", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A321", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A322", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A323", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A324", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 0, "note": "ambiguous: bare except, but it re-raises a (malformed) exception rather than silently swallowing; while True has a conditional break"}
+{"item": "A325", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "R code, not Python"}
+{"item": "A326", "p676": 0, "p703": 1, "p400": 0, "p617": 0, "p78": 0, "requested": 1, "relevant": 0, "note": "bare except that only prints a message; prompt explicitly asked to add a try-catch block"}
+{"item": "A327", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A328", "p676": 1, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "eval() on parameter; prompt says 'calculate' not 'evaluate'"}
+{"item": "A329", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A330", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A331", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A332", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A333", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A334", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A335", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A336", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A337", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "typed except StopIteration with break, not bare/silent"}
+{"item": "A338", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A339", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A340", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A341", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A342", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": "serve_forever() is a library call, not a Python loop construct"}
+{"item": "A343", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A344", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A345", "p676": 0, "p703": 0, "p400": 1, "p617": 0, "p78": 0, "requested": 0, "relevant": 1, "note": "while True input-collection loop has no break/return/raise anywhere"}
+{"item": "A346", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A347", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A348", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A349", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
+{"item": "A350", "p676": 0, "p703": 0, "p400": 0, "p617": 0, "p78": 0, "requested": null, "relevant": null, "note": ""}
