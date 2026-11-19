@@ -9,9 +9,9 @@ This repository contains the complete replication package for the empirical stud
 
 ## 1. Overview & Data Availability
 
-* **Archival DOI:** Zenodo reserved DOI: `10.5281/zenodo.14022834` (to be activated upon unblinded publication).
 * **Double-Anonymous Peer-Review Access:** An anonymised mirror of this repository is hosted at:  
   `https://anonymous.4open.science/r/llm-code-corpus-audit-DC03/`
+* **Archival Deposit:** A permanent archival DOI (Zenodo) will be established upon completion of peer review and acceptance to preserve double-blind integrity.
 * **Contents:**
   * Complete AST parsing, structural metric extraction, and detection rules for 5 CWE-mapped patterns.
   * Targeted *post hoc* request lexicon specifications.

@@ -1,0 +1,112 @@
+dataset,sample_id,matched_tokens,category,loc,cc
+CodeAlpaca,alpaca_643,compile(,benign_model_compile,25,1
+CodeAlpaca,alpaca_1048,compile(,benign_model_compile,14,1
+CodeAlpaca,alpaca_1565,compile(,benign_model_compile,12,1
+CodeAlpaca,alpaca_1711,compile(,benign_model_compile,9,1
+CodeAlpaca,alpaca_2158,compile(,benign_model_compile,9,1
+CodeAlpaca,alpaca_2367,compile(,benign_model_compile,19,1
+CodeAlpaca,alpaca_2822,compile(,benign_model_compile,14,1
+CodeAlpaca,alpaca_2953,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_3031,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_3103,compile(,benign_model_compile,9,1
+CodeAlpaca,alpaca_3248,while True,benign_while_break_return,10,3
+CodeAlpaca,alpaca_3685,compile(,benign_model_compile,10,1
+CodeAlpaca,alpaca_4310,compile(,benign_model_compile,14,1
+CodeAlpaca,alpaca_4387,compile(,benign_model_compile,8,1
+CodeAlpaca,alpaca_4812,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_5103,compile(,benign_model_compile,16,1
+CodeAlpaca,alpaca_5161,while True,benign_while_generator,6,3
+CodeAlpaca,alpaca_5693,compile(,benign_re_compile,4,1
+CodeAlpaca,alpaca_5796,compile(,benign_model_compile,10,1
+CodeAlpaca,alpaca_6106,compile(,benign_model_compile,10,1
+CodeAlpaca,alpaca_6502,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_6688,compile(,benign_model_compile,15,1
+CodeAlpaca,alpaca_6968,while True,benign_while_break_return,13,4
+CodeAlpaca,alpaca_7025,compile(,benign_re_compile,5,1
+CodeAlpaca,alpaca_7034,compile(,benign_model_compile,22,1
+CodeAlpaca,alpaca_7166,compile(,benign_model_compile,8,1
+CodeAlpaca,alpaca_7399,compile(,benign_re_compile,6,1
+CodeAlpaca,alpaca_7405,compile(,benign_re_compile,1,1
+CodeAlpaca,alpaca_7563,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_7889,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_7906,compile(,benign_model_compile,16,1
+CodeAlpaca,alpaca_7920,compile(,benign_re_compile,6,2
+CodeAlpaca,alpaca_8364,compile(,benign_model_compile,9,1
+CodeAlpaca,alpaca_8737,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_8836,compile(,benign_re_compile,3,1
+CodeAlpaca,alpaca_9100,compile(,benign_re_compile,3,1
+CodeAlpaca,alpaca_9131,compile(,benign_re_compile,6,2
+CodeAlpaca,alpaca_9188,compile(,benign_model_compile,32,3
+CodeAlpaca,alpaca_9755,compile(,benign_re_compile,9,4
+CodeAlpaca,alpaca_10037,while True,benign_while_generator,5,2
+CodeAlpaca,alpaca_10592,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_10619,while True,benign_while_generator,5,2
+CodeAlpaca,alpaca_10642,assert,benign_unittest_assert,8,2
+CodeAlpaca,alpaca_10880,compile(,benign_model_compile,15,2
+CodeAlpaca,alpaca_10946,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_11279,compile(,benign_re_compile,1,1
+CodeAlpaca,alpaca_11380,compile(,benign_model_compile,10,1
+CodeAlpaca,alpaca_11961,while True,benign_while_break_return,20,7
+CodeAlpaca,alpaca_11968,compile(,benign_re_compile,7,2
+CodeAlpaca,alpaca_12295,compile(,benign_model_compile,15,1
+CodeAlpaca,alpaca_12339,while True,benign_while_break_return,8,3
+CodeAlpaca,alpaca_12383,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_12408,while True,benign_while_break_return,8,3
+CodeAlpaca,alpaca_12716,compile(,benign_model_compile,6,1
+CodeAlpaca,alpaca_12733,while True,benign_while_break_return,11,3
+CodeAlpaca,alpaca_12767,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_12783,compile(,benign_re_compile,7,2
+CodeAlpaca,alpaca_12801,while True,benign_while_break_return,9,3
+CodeAlpaca,alpaca_12851,assert; assert; assert,benign_unittest_assert,8,2
+CodeAlpaca,alpaca_13210,while True,benign_while_break_return,20,7
+CodeAlpaca,alpaca_13698,compile(,benign_model_compile,11,1
+CodeAlpaca,alpaca_13817,compile(,benign_model_compile,12,1
+CodeAlpaca,alpaca_13903,while True,benign_while_break_return,33,8
+CodeAlpaca,alpaca_14093,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_14119,compile(,benign_model_compile,11,1
+CodeAlpaca,alpaca_14124,compile(,benign_re_compile,6,2
+CodeAlpaca,alpaca_14155,compile(,benign_model_compile,14,1
+CodeAlpaca,alpaca_15031,compile(,benign_re_compile,1,1
+CodeAlpaca,alpaca_15127,compile(,benign_re_compile,1,1
+CodeAlpaca,alpaca_15221,compile(,benign_model_compile,11,1
+CodeAlpaca,alpaca_15360,compile(,benign_model_compile,8,1
+CodeAlpaca,alpaca_15818,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_15838,compile(,benign_re_compile,1,1
+CodeAlpaca,alpaca_16052,while True,benign_while_break_return,10,4
+CodeAlpaca,alpaca_16126,while True,benign_while_break_return,13,4
+CodeAlpaca,alpaca_16337,compile(,benign_model_compile,52,1
+CodeAlpaca,alpaca_16532,while True,benign_while_break_return,7,3
+CodeAlpaca,alpaca_16670,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_16799,eval(,benign_pandas_eval,3,1
+CodeAlpaca,alpaca_17267,while True,benign_while_break_return,12,4
+CodeAlpaca,alpaca_17269,while True,benign_while_break_return,18,5
+CodeAlpaca,alpaca_17425,compile(,benign_model_compile,13,1
+CodeAlpaca,alpaca_17463,while True,benign_while_break_return,8,3
+CodeAlpaca,alpaca_17506,compile(,benign_model_compile,16,1
+CodeAlpaca,alpaca_17793,while True,benign_while_break_return,11,3
+CodeAlpaca,alpaca_18017,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_18032,while True,benign_while_break_return,4,3
+CodeAlpaca,alpaca_18123,compile(,benign_model_compile,12,1
+CodeAlpaca,alpaca_18409,compile(,benign_re_compile,3,1
+CodeAlpaca,alpaca_18504,compile(,benign_model_compile,7,1
+CodeAlpaca,alpaca_18973,while True,benign_while_break_return,7,3
+CodeAlpaca,alpaca_18976,compile(,benign_model_compile,20,1
+CodeAlpaca,alpaca_18979,assert,benign_unittest_assert,7,1
+CodeAlpaca,alpaca_19156,compile(,benign_model_compile,10,1
+CodeAlpaca,alpaca_19319,compile(,benign_model_compile,15,1
+CodeAlpaca,alpaca_19407,compile(,benign_model_compile,9,1
+CodeAlpaca,alpaca_19634,compile(,benign_re_compile,12,2
+CodeAlpaca,alpaca_19711,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_19746,compile(,benign_re_compile,2,1
+CodeAlpaca,alpaca_19842,compile(,benign_model_compile,12,1
+CodeAlpaca,alpaca_19956,compile(,benign_model_compile,33,1
+MBPP,mbpp_173,compile(,benign_re_compile,4,1
+MBPP,mbpp_208,compile(,benign_re_compile,5,1
+MBPP,mbpp_210,compile(,benign_re_compile,5,1
+MBPP,mbpp_342,while True,benign_while_break_return,26,5
+MBPP,mbpp_403,compile(,benign_re_compile,14,3
+MBPP,mbpp_676,compile(,benign_re_compile,4,1
+MBPP,mbpp_759,compile(,benign_re_compile,5,1
+MBPP,mbpp_900,compile(,benign_re_compile,7,2
+MBPP,mbpp_901,while True,benign_while_break_return,12,9
+MBPP,mbpp_913,compile(,benign_re_compile,7,2
