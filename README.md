@@ -113,7 +113,7 @@ python reproduce_all.py
    * Model with expert-annotated "plausible weakness" outcome ($n = 41$): $\text{OR}_{\text{req}} = 55.32$, $p = 7.02 \times 10^{-34}$, $\text{OR}_{\text{LoC}} = 1.57$ ($p = 0.037$).
    * Disaggregated security-relevant subset (CWE-676, CWE-78; 20 events): $\text{OR}_{\text{req}} = 143.27$, $p = 4.88 \times 10^{-25}$.
    * Disaggregated reliability smell subset (CWE-703, CWE-400, CWE-617; 30 events): $\text{OR}_{\text{req}} = 46.16$, $p = 4.14 \times 10^{-24}$.
-   * Cleaned lexicon model ($n = 96$ requests): $\text{OR}_{\text{req}} = 86.74$, $p = 2.45 \times 10^{-46}$.
+   * Cleaned lexicon model ($n = 96$ requests): $\text{OR}_{\text{req}} = 86.74$, $p = 2.45 \times 10^{-46}$, $\text{OR}_{\text{LoC}} = 1.46$ (95% CI [0.89, 2.39], $p = 0.132$), $\text{OR}_{\text{CC}} = 0.87$ [0.70, 1.10], $p = 0.251$.
 
 2. **Safe Alternatives and Unrequested Weaknesses Analysis:**
    ```bash
