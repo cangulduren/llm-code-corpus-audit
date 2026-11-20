@@ -131,7 +131,7 @@ python reproduce_all.py
    *Calculates:*
    * 150 random unflagged sample (0 misses): exact 95% Clopper-Pearson upper bound on miss rate = 2.43% (Rule of Three = 2.00%).
    * 300 combined unflagged sample: for CWE-400, 1 miss in 300 gives 0.33% [0.01%, 1.84%]; for other 4 classes, 0 misses gives exact 95% Clopper-Pearson upper bound = 1.22% (Rule of Three = 1.00%).
-   * Broad regex audit of all 8,004 unflagged routines: captured the single known nested-while miss (`alpaca_16220`) and confirmed zero additional omitted weaknesses upon structural filtering (633 -> 101 candidates, all verified benign).
+   * Broad regex audit of all 8,004 unflagged routines: confirmed zero additional omitted instances among the audited syntactic pattern forms upon structural filtering (633 -> 101 candidates, all verified benign); non-constant loop flaws were not screened corpus-wide and remain bounded solely by the negative audit sample (exact Clopper-Pearson 95% upper bound of 1.84% for CWE-400).
 
 4. **AST Cyclomatic Complexity Implementation Validation:**
    ```bash
