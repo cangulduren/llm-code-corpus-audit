@@ -4,10 +4,10 @@
   "items_C.jsonl": "6aab9135729b0c02bf5ed7948f882aeaf1eab35b2aa8da733f0f4f4bf9f5403a",
   "codebook.md": "66f2c3fa84b096db85321d325bcee377a9dd5da12417a5b766c74e8593778c8a",
   "annotators": {
-    "annotator1": "İlker Yoncacı, independent expert, blind to detector output",
-    "annotator2": "Yücel Tekin, independent expert, blind to detector output",
-    "adjudicator": "Can Güldüren"
+    "annotator1": "Independent Expert 1, senior software engineer (>15 years industry experience), blind to detector output",
+    "annotator2": "Independent Expert 2, senior software engineer (>15 years industry experience), blind to detector output",
+    "adjudicator": "Author (adjudication strictly based on pre-established codebook)"
   },
   "frozen": "2026-10-03",
-  "adjudicated_fields": 17
+  "adjudicated_fields": 15
 }
