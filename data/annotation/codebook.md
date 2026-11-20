@@ -43,3 +43,11 @@ The output was rejected by Python's parser. Decide what it is:
 - `malformed_python`: Python code that fails to parse (Python 2 syntax, indentation errors, truncated code, Python mixed with prose, placeholders).
 
 Output: `{"item": "C001", "label": "prose", "note": ""}`
+
+## Task D: held-out prompt request audit (items_heldout_prompts.jsonl; fields: item, sample_id, prompt)
+
+The item is a prompt drawn randomly from the unflagged population. Decide whether the **prompt** explicitly requests any of the five weakness/smell constructs (dynamic code execution, bare exception handling, unbounded loop without exit, assert statement, or shell command execution):
+
+- `requested` (1/0): 1 if the prompt explicitly requests the construct (e.g. "use eval", "infinite loop", "assert", "try-except", "run shell command"); 0 otherwise.
+
+Output: `{"item": "H001", "requested": 0, "note": ""}`

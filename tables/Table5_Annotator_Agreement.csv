@@ -8,3 +8,4 @@ Construct requested,50,90.0%,0.802
 Plausible weakness,50,96.0%,0.865
 Type of parseable output,150,98.7%,0.979
 Type of non-parseable output,200,97.5%,0.961
+Construct requested (held-out sample),400,100.0%,Undefined*
