@@ -42,7 +42,7 @@
 {"item": "H042", "requested": 0, "note": ""}
 {"item": "H043", "requested": 0, "note": ""}
 {"item": "H044", "requested": 0, "note": ""}
-{"item": "H045", "requested": 0, "note": ""}
+{"item": "H045", "requested": 0, "note": "standard while loop for tree stack, bounded"}
 {"item": "H046", "requested": 0, "note": ""}
 {"item": "H047", "requested": 0, "note": ""}
 {"item": "H048", "requested": 0, "note": ""}
@@ -87,7 +87,7 @@
 {"item": "H087", "requested": 0, "note": ""}
 {"item": "H088", "requested": 0, "note": ""}
 {"item": "H089", "requested": 0, "note": ""}
-{"item": "H090", "requested": 0, "note": ""}
+{"item": "H090", "requested": 0, "note": "while loop with length condition, safe bounded loop"}
 {"item": "H091", "requested": 0, "note": ""}
 {"item": "H092", "requested": 0, "note": ""}
 {"item": "H093", "requested": 0, "note": ""}
@@ -104,10 +104,10 @@
 {"item": "H104", "requested": 0, "note": ""}
 {"item": "H105", "requested": 0, "note": ""}
 {"item": "H106", "requested": 0, "note": ""}
-{"item": "H107", "requested": 0, "note": ""}
+{"item": "H107", "requested": 0, "note": "terminating while loop with explicit exit check (input != 5)"}
 {"item": "H108", "requested": 0, "note": ""}
 {"item": "H109", "requested": 0, "note": ""}
-{"item": "H110", "requested": 0, "note": ""}
+{"item": "H110", "requested": 0, "note": "json to dict task, substring match on dictionary"}
 {"item": "H111", "requested": 0, "note": ""}
 {"item": "H112", "requested": 0, "note": ""}
 {"item": "H113", "requested": 0, "note": ""}
@@ -132,7 +132,7 @@
 {"item": "H132", "requested": 0, "note": ""}
 {"item": "H133", "requested": 0, "note": ""}
 {"item": "H134", "requested": 0, "note": ""}
-{"item": "H135", "requested": 0, "note": ""}
+{"item": "H135", "requested": 0, "note": "asking for list comprehension/del method, not OS shell"}
 {"item": "H136", "requested": 0, "note": ""}
 {"item": "H137", "requested": 0, "note": ""}
 {"item": "H138", "requested": 0, "note": ""}
@@ -172,20 +172,20 @@
 {"item": "H172", "requested": 0, "note": ""}
 {"item": "H173", "requested": 0, "note": ""}
 {"item": "H174", "requested": 0, "note": ""}
-{"item": "H175", "requested": 0, "note": ""}
+{"item": "H175", "requested": 0, "note": "logic debugging, no try/except requested"}
 {"item": "H176", "requested": 0, "note": ""}
 {"item": "H177", "requested": 0, "note": ""}
 {"item": "H178", "requested": 0, "note": ""}
 {"item": "H179", "requested": 0, "note": ""}
 {"item": "H180", "requested": 0, "note": ""}
 {"item": "H181", "requested": 0, "note": ""}
-{"item": "H182", "requested": 0, "note": ""}
+{"item": "H182", "requested": 0, "note": "bounded index iteration loop"}
 {"item": "H183", "requested": 0, "note": ""}
 {"item": "H184", "requested": 0, "note": ""}
 {"item": "H185", "requested": 0, "note": ""}
 {"item": "H186", "requested": 0, "note": ""}
 {"item": "H187", "requested": 0, "note": ""}
-{"item": "H188", "requested": 0, "note": ""}
+{"item": "H188", "requested": 0, "note": "simple bounded loop example (i < 10)"}
 {"item": "H189", "requested": 0, "note": ""}
 {"item": "H190", "requested": 0, "note": ""}
 {"item": "H191", "requested": 0, "note": ""}
@@ -248,7 +248,7 @@
 {"item": "H248", "requested": 0, "note": ""}
 {"item": "H249", "requested": 0, "note": ""}
 {"item": "H250", "requested": 0, "note": ""}
-{"item": "H251", "requested": 0, "note": ""}
+{"item": "H251", "requested": 0, "note": "algorithmic bug fix, no exception handling"}
 {"item": "H252", "requested": 0, "note": ""}
 {"item": "H253", "requested": 0, "note": ""}
 {"item": "H254", "requested": 0, "note": ""}
@@ -303,7 +303,7 @@
 {"item": "H303", "requested": 0, "note": ""}
 {"item": "H304", "requested": 0, "note": ""}
 {"item": "H305", "requested": 0, "note": ""}
-{"item": "H306", "requested": 0, "note": ""}
+{"item": "H306", "requested": 0, "note": "involves string find/index methods"}
 {"item": "H307", "requested": 0, "note": ""}
 {"item": "H308", "requested": 0, "note": ""}
 {"item": "H309", "requested": 0, "note": ""}
@@ -387,7 +387,7 @@
 {"item": "H387", "requested": 0, "note": ""}
 {"item": "H388", "requested": 0, "note": ""}
 {"item": "H389", "requested": 0, "note": ""}
-{"item": "H390", "requested": 0, "note": ""}
+{"item": "H390", "requested": 0, "note": "syntax repair task, no security construct"}
 {"item": "H391", "requested": 0, "note": ""}
 {"item": "H392", "requested": 0, "note": ""}
 {"item": "H393", "requested": 0, "note": ""}
