@@ -14,6 +14,7 @@ SCRIPTS = [
     ("Exhaustive Broad Regex Audit of 8,004 Unflagged Routines", "audit_unflagged_regex.py"),
     ("McCabe Cyclomatic Complexity Validation vs Radon/McCabe", "validate_mccabe.py"),
     ("Forensic Python 2 Syntax Audit on Non-Parseable Code", "analyze_py2.py"),
+    ("Held-Out Prompt Request Audit (n = 400)", "audit_heldout_prompts.py"),
 ]
 
 def main():

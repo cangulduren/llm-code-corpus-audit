@@ -1,0 +1,400 @@
+{"item": "H001", "sample_id": "alpaca_12829", "prompt": "Sort a given list of numbers and print the result. myList = [9, 2, 5, 1, 8]"}
+{"item": "H002", "sample_id": "alpaca_595", "prompt": "Create an if-else statement to classify a given number into an even or an odd."}
+{"item": "H003", "sample_id": "alpaca_11088", "prompt": "Design a program to find all prime numbers up to a given limit n."}
+{"item": "H004", "sample_id": "alpaca_2954", "prompt": "Develop a python code to sort an array of numbers"}
+{"item": "H005", "sample_id": "alpaca_6114", "prompt": "Write a R program to print the first 5 rows of a given dataset “data.csv”"}
+{"item": "H006", "sample_id": "alpaca_18747", "prompt": "Implement a code to print the indices of all occurrences of a number x in an array arr. x = 5\narr = [1, 5, 2, 8, 5, 10]"}
+{"item": "H007", "sample_id": "alpaca_421", "prompt": "Print the first 5 elements of the following list. my_list = [2, 4, 6, 8, 10, 12, 14]"}
+{"item": "H008", "sample_id": "alpaca_5994", "prompt": "Define a function that returns the string \"Hello World!\""}
+{"item": "H009", "sample_id": "alpaca_14780", "prompt": "Implement a sorting algorithm which takes an array of integers as input and sorts it in ascending order. [34, 19, 42, -9, 2018, 0, 105]"}
+{"item": "H010", "sample_id": "alpaca_12102", "prompt": "Given a string of characters, write a function in Python that returns only the uppercase characters. \"Hello, World!\""}
+{"item": "H011", "sample_id": "alpaca_14467", "prompt": "You are given two strings, A and B. Write a function to delete the characters in A that also appear in B. A = 'abcbbdef'\nB = 'abcdc'"}
+{"item": "H012", "sample_id": "alpaca_14626", "prompt": "Using the input string, create a new string that contains all the characters in even indices. my_string = \"abcdefghi\""}
+{"item": "H013", "sample_id": "alpaca_11566", "prompt": "Create a function to edit a given string, replacing all the vowels with a given character. String: \"Hello world\"\nCharacter: 'x'"}
+{"item": "H014", "sample_id": "alpaca_461", "prompt": "Implement a function that takes two integers and returns the smaller one."}
+{"item": "H015", "sample_id": "alpaca_16278", "prompt": "Create a function that takes two string arguments, adds the corresponding numbers together, and returns the result. string1 = \"5\"\nstring2 = \"7\""}
+{"item": "H016", "sample_id": "alpaca_17068", "prompt": "Write a code snippet to display the name and age of the oldest person in a list called 'people'. people = [{'name':'Jone','age':45}, {'name':'Jane','age':37}, {'name':'Jack','age':48}]"}
+{"item": "H017", "sample_id": "alpaca_5423", "prompt": "Given a list of numbers, find the lowest and highest numbers in the list. numbers = [5, 8, 2, 9, 4, 7]"}
+{"item": "H018", "sample_id": "alpaca_12313", "prompt": "Write a code to split a string into words and store them into a list. mystring = \"This is a sample string\""}
+{"item": "H019", "sample_id": "alpaca_6326", "prompt": "Design an algorithm for sorting data in ascending order using selection sort."}
+{"item": "H020", "sample_id": "alpaca_1335", "prompt": "Write a Python function that takes a list of floats as an argument and returns the sum of all elements. some_list = [1.5, 5.9, 3.7, 5.2]"}
+{"item": "H021", "sample_id": "alpaca_16413", "prompt": "Swap the values of the two given numbers using a temporary variable. a = 1\nb = 2"}
+{"item": "H022", "sample_id": "alpaca_3934", "prompt": "Modify the following code snippet to print the total number of characters in the string. string = 'Hello World!'"}
+{"item": "H023", "sample_id": "alpaca_1121", "prompt": "Format a given string according to a given pattern. string = 'John Doe, 25'\npattern = '{lastname}, {firstname} {age}'"}
+{"item": "H024", "sample_id": "alpaca_3062", "prompt": "Create a program that will filter out all numbers divisible by 3 from the given list of integers. [2, 3, 4, 6, 8, 9, 10, 12]"}
+{"item": "H025", "sample_id": "alpaca_8703", "prompt": "You will be given a list of numbers as input. Write a program to remove the duplicates and return only the distinct values. [1, 1, 2, 3, 4, 4, 5]"}
+{"item": "H026", "sample_id": "alpaca_5722", "prompt": "Design a program that takes a date in the format dd/mm/yyyy as input and prints the day of that given date 01/02/2020"}
+{"item": "H027", "sample_id": "alpaca_10671", "prompt": "How can you create a dictionairy from the following two lists in Python? list1 = [\"a\", \"b\", \"c\"]\nlist2 = [1, 2, 3]"}
+{"item": "H028", "sample_id": "alpaca_13669", "prompt": "Write an algorithm to check if a number is even or not without using modulus (%) operator"}
+{"item": "H029", "sample_id": "alpaca_12018", "prompt": "Design a program to partition an array into two subarrays such that the difference between the sum of the two subarrays is minimum. Input Array: [1, 6, 5, 11, 3]"}
+{"item": "H030", "sample_id": "alpaca_7863", "prompt": "Sort the following list of numbers in increasing order without using any built-in sorting method. arr = [2, 5, 3, 8, 7]"}
+{"item": "H031", "sample_id": "alpaca_8668", "prompt": "Using regex, find all the words that have a specific character at the start. the words that start with 'a'"}
+{"item": "H032", "sample_id": "alpaca_13876", "prompt": "Construct a helper function that prints the provided string twice."}
+{"item": "H033", "sample_id": "alpaca_11573", "prompt": "Create a function that takes in a string and returns an array of the words which are longer than 5 characters. \"Welcome to the world of programming\""}
+{"item": "H034", "sample_id": "alpaca_16669", "prompt": "Compute the sum of all the even numbers and odd numbers in an array of numbers. [1, 2, 3, 4, 5, 6]"}
+{"item": "H035", "sample_id": "alpaca_5986", "prompt": "Print all the permutations of a given list [1, 2, 3]"}
+{"item": "H036", "sample_id": "alpaca_7027", "prompt": "The following code is broken, please rewrite it so that it prints out all the primes within a range of 1-100. for i in range(2,100):\n    if i % 2 == 0:\n        print (i, \" is prime\")"}
+{"item": "H037", "sample_id": "alpaca_6311", "prompt": "Write a code that prints all the possible outcomes of rolling two dice."}
+{"item": "H038", "sample_id": "alpaca_17920", "prompt": "Construct a simple algorithm to check if a number is prime 11"}
+{"item": "H039", "sample_id": "alpaca_999", "prompt": "Generate a list that has the all even numbers between 1 and 50, inclusive."}
+{"item": "H040", "sample_id": "alpaca_17494", "prompt": "Write a function to calculate the value of the mathematical series: x = 2"}
+{"item": "H041", "sample_id": "alpaca_14167", "prompt": "Write a code that takes a number and prints it out in words. 25"}
+{"item": "H042", "sample_id": "alpaca_1432", "prompt": "Sort a given list in increasing order. my_list = [3, 4, 2, 6]"}
+{"item": "H043", "sample_id": "alpaca_10167", "prompt": "Given a Python function, edit the function such that it correctly prints the second highest value of the list. def getSecondMax(a):\n    print(max(a))"}
+{"item": "H044", "sample_id": "alpaca_16766", "prompt": "Write a Python program to analyze the sentiment of a given text. The restaurant food was terrible."}
+{"item": "H045", "sample_id": "alpaca_599", "prompt": "Create a loop to traverse a given binary tree."}
+{"item": "H046", "sample_id": "alpaca_12533", "prompt": "Create a Python script to scrape HTML data from a website."}
+{"item": "H047", "sample_id": "alpaca_2717", "prompt": "Suggest some changes to the following code that will reduce the runtime complexity. def search_array(arr, target):\n    '''This function searches a given array for the target and returns its index if found.'''\n    for i in range(len(arr)):\n        if arr[i] == target:\n            return i\n    return -1"}
+{"item": "H048", "sample_id": "alpaca_17462", "prompt": "Convert the list of numbers into a dictionary where the numeric values are the keys and the corresponding characters are the values. num_list = [1, 2, 3]\nchar_list = ['a', 'b', 'c']"}
+{"item": "H049", "sample_id": "alpaca_20004", "prompt": "Sum up the values in the given list using a for loop. List: [2, 3, 6, 4, 8]"}
+{"item": "H050", "sample_id": "alpaca_7515", "prompt": "Provide a solution to print the following string in reverse order. String = \"Hello, world!\""}
+{"item": "H051", "sample_id": "alpaca_2281", "prompt": "Write a Python program to filter out even numbers from a given list. numbers = [2, 4, 6, 8, 10]"}
+{"item": "H052", "sample_id": "alpaca_11244", "prompt": "Perform a selection sort on the given array [4, 1, 10, 8, 5]"}
+{"item": "H053", "sample_id": "alpaca_501", "prompt": "Parse the following JSON and extract the value of the variable 'price'. `{\n \"item\": \"Shoes\",\n \"price\": 125\n}`"}
+{"item": "H054", "sample_id": "alpaca_1112", "prompt": "You need to code a program that prints the absolute difference between two numbers. 15 and 10"}
+{"item": "H055", "sample_id": "alpaca_18175", "prompt": "Given a list of strings and a single character, write a Python function to return the count of strings containing that character. strings = [\"Hello\", \"World\", \"Cat\", \"Dog\", \"Elephant\"] \ncharacter = \"e\""}
+{"item": "H056", "sample_id": "alpaca_7840", "prompt": "Write code to find the maximum sum for a contiguous subarray of a given array."}
+{"item": "H057", "sample_id": "alpaca_11953", "prompt": "Can you modify the program so that it prints out all words in the sentence along with their count? \"The quick brown fox jumped over the lazy dog.\""}
+{"item": "H058", "sample_id": "alpaca_13413", "prompt": "Parse this JSON string and print the value of the \"name\" field. json_string = '{\"name\":\"John\", \"age\":25}'"}
+{"item": "H059", "sample_id": "alpaca_10707", "prompt": "Rewrite the given recursive Python program as a loop. def factorial(n): \n   if (n == 1): \n       return n\n   else: \n       return n * factorial(n-1)"}
+{"item": "H060", "sample_id": "alpaca_7553", "prompt": "Generate the nth Fibonacci number using a loop."}
+{"item": "H061", "sample_id": "alpaca_4175", "prompt": "Split the following string into a list of words. string = \"this is a string\""}
+{"item": "H062", "sample_id": "alpaca_13745", "prompt": "Remove all duplicate words from the given sentence. sentence = \"All all are are we we here here to to help help.\""}
+{"item": "H063", "sample_id": "alpaca_18589", "prompt": "Create a regex string to find all words that contain the letters 'a' and 'z' in them."}
+{"item": "H064", "sample_id": "alpaca_18126", "prompt": "Given a list of numbers, return the list with each number multiplied by two. [2, 4, 6, 8]"}
+{"item": "H065", "sample_id": "alpaca_10476", "prompt": "Compare two objects and return 0 if they are equal, -1 if the first is less than the second, and 1 if the first is greater than the second. object1 = 7\nobject2 = 8"}
+{"item": "H066", "sample_id": "alpaca_2155", "prompt": "Find the kth smallest element in an array. The array consists of integers only and the size of the array is given."}
+{"item": "H067", "sample_id": "alpaca_13191", "prompt": "Given a list of words and a target word, determine if the target word is in the list list_words = [\"apple\", \"banana\", \"orange\", \"mango\"]\ntarget_word = \"pineapple\""}
+{"item": "H068", "sample_id": "alpaca_1006", "prompt": "Return the index of a given value in a list. [1,2,3], 3"}
+{"item": "H069", "sample_id": "alpaca_18469", "prompt": "Edit the code to make the string word_list case-insensitive. word_list = [\"cat\", \"dog\", \"bird\"]"}
+{"item": "H070", "sample_id": "alpaca_18938", "prompt": "Write a code to calculate the mean of the list of integers provided. nums = [10, 20, 30, 40, 50]"}
+{"item": "H071", "sample_id": "alpaca_12229", "prompt": "Create a list of all numbers that are divisible by 5 between 0 and 25."}
+{"item": "H072", "sample_id": "alpaca_11346", "prompt": "Create a function that takes two parameters, a string and an integer, and prints the string the given number of times. string = \"Hello\"\nnumber = 3"}
+{"item": "H073", "sample_id": "alpaca_3253", "prompt": "Create a program to insert the given character at a particular position in a given string. String = \"Geek university\"\nCharacter = 's'\nPosition = 8"}
+{"item": "H074", "sample_id": "alpaca_17636", "prompt": "Design a class in Python that creates objects based on user input."}
+{"item": "H075", "sample_id": "alpaca_7303", "prompt": "let A be a n x n matrix, write a function to calculate the trace of A A = [[1,2,3],[4,5,6],[7,8,9]]"}
+{"item": "H076", "sample_id": "alpaca_2307", "prompt": "Create a Python class to represent the 'Employee' entity."}
+{"item": "H077", "sample_id": "alpaca_18528", "prompt": "Perform K-Means Clustering on this dataset. dataset = [[5,7], [1,2], [7,9], [10,2], [2,5]]"}
+{"item": "H078", "sample_id": "alpaca_4992", "prompt": "Given an integer array, output the largest sum of all the possible subarray sums, use Python for the solution. Example array: [-2,1,-3,4,-1,2,1,-5,4]"}
+{"item": "H079", "sample_id": "alpaca_14278", "prompt": "Classify the following pieces of data Texas\nBlue\nDog"}
+{"item": "H080", "sample_id": "alpaca_10715", "prompt": "Create a python function that takes a string as input and returns a boolean if the string contains only upper case letters."}
+{"item": "H081", "sample_id": "alpaca_19156", "prompt": "Use TensorFlow to create a convolutional neural network to classify handwritten digits."}
+{"item": "H082", "sample_id": "alpaca_5586", "prompt": "Convert the following timestamp to ISO 8601 format 1579183000"}
+{"item": "H083", "sample_id": "alpaca_9228", "prompt": "Extract the value \"qux\" in the following dictionary. d = {\n    'foo': 'bar',\n    'baz': {\n        'qux': 12\n    }\n}"}
+{"item": "H084", "sample_id": "alpaca_13617", "prompt": "Construct a Python program to print the numbers from 1 to 10 on a single line."}
+{"item": "H085", "sample_id": "alpaca_16235", "prompt": "Create a Python class for a product that includes data fields for name, description, and price."}
+{"item": "H086", "sample_id": "alpaca_17178", "prompt": "How would you use the 'enumerate()' function in a for loop to print numbers from 0 to 5?"}
+{"item": "H087", "sample_id": "alpaca_15186", "prompt": "Suggeste a completion of the following code: def flatten(nested_list):"}
+{"item": "H088", "sample_id": "alpaca_7802", "prompt": "Create a Python script to generate a random password of 8 characters that contains an uppercase letter, a special symbol and a number."}
+{"item": "H089", "sample_id": "alpaca_3393", "prompt": "Create a function to detect whether a given character is a vowel or not."}
+{"item": "H090", "sample_id": "alpaca_1023", "prompt": "Using the comment as a guide, convert the following code from a for loop to a while loop. data_list = [1, 3, 5, 7, 9]\n\n# Loops through the data_list and prints out all elements\nfor element in data_list:\n    print(element)"}
+{"item": "H091", "sample_id": "alpaca_15752", "prompt": "Split a string into an array of words and return the length of the longest word."}
+{"item": "H092", "sample_id": "alpaca_7352", "prompt": "Create a function that calculates the area of a circle when provided with its radius. radius = 5"}
+{"item": "H093", "sample_id": "alpaca_4633", "prompt": "You need to create a function that takes a character as input and prints out all words from a given dictionary that start with the given character. dictionary = [\"apple\", \"ball\", \"cat\", \"dog\"]\ncharacter = 'd'"}
+{"item": "H094", "sample_id": "alpaca_1524", "prompt": "Build a decision tree model using Scikit-Learn to predict the type of iris plant based on petal length, petal width, sepal length and sepal width."}
+{"item": "H095", "sample_id": "alpaca_6770", "prompt": "You need to read a code and count the number of lines of code. def function(a, b):\n    c = a + b\n    d = a * b\n    return c + d"}
+{"item": "H096", "sample_id": "alpaca_18053", "prompt": "Identify the highest pricing plan from the given list. plans = [{\"name\": \"Basic\", \"price\": 10},\n         {\"name\": \"Pro\", \"price\": 20},\n         {\"name\": \"Premium\", \"price\": 30}\n        ]"}
+{"item": "H097", "sample_id": "alpaca_7041", "prompt": "Design a function in Python to find all the elements in an array that are divisible by 3. arr = [3, 8, 15, 20, 7]"}
+{"item": "H098", "sample_id": "alpaca_5630", "prompt": "Use a nested loop to print the output."}
+{"item": "H099", "sample_id": "alpaca_8686", "prompt": "Create a program in python that sorts a given list."}
+{"item": "H100", "sample_id": "alpaca_7265", "prompt": "Write a Python script that takes in a string and prints out the frequency distribution of the letters in the string. apple"}
+{"item": "H101", "sample_id": "alpaca_12196", "prompt": "Build a web scraper that stores the main titles and content of article links from a given website. Website: https://www.techvoice.org/"}
+{"item": "H102", "sample_id": "alpaca_38", "prompt": "Edit the Python code so that it prints out the total number of elements in the list. list = [1, 2, 3, 4, 5]"}
+{"item": "H103", "sample_id": "alpaca_14120", "prompt": "Write a Python script that extracts the name and age of all customers from the customer table in a database."}
+{"item": "H104", "sample_id": "alpaca_6331", "prompt": "Create a Python dictionary with key-values pairs (fruit-quantity) as listed below. apple = 5, banana = 10, orange = 15"}
+{"item": "H105", "sample_id": "alpaca_14375", "prompt": "Write a code to remove elements from a list using the `remove()` method. list = [1, 2, 3, 4]"}
+{"item": "H106", "sample_id": "alpaca_13524", "prompt": "Create a dictionary and assign four key-value pairs."}
+{"item": "H107", "sample_id": "alpaca_19168", "prompt": "Construct a while loop in Python which runs until user input is equal to 5."}
+{"item": "H108", "sample_id": "alpaca_9059", "prompt": "Suggest a code to remove the third element of a list. list_of_items = [\"apple\", \"banana\", \"cherry\", \"orange\"]"}
+{"item": "H109", "sample_id": "alpaca_5260", "prompt": "Create a new list that is the combination of two other given lists. list_a = [\"A\", \"B\", \"C\"]\nlist_b = [1, 2, 3]"}
+{"item": "H110", "sample_id": "alpaca_18707", "prompt": "Create a dictionary and parse the following JSON object into it. {\n  \"name\": \"John Doe\",\n  \"age\": 34,\n  \"hobbies\": [\"reading\", \"cycling\", \"movies\"],\n  \"address\": {\n    \"city\": \"London\",\n    \"country\": \"United Kingdom\"\n  }\n}"}
+{"item": "H111", "sample_id": "alpaca_18143", "prompt": "Develop a function to replace all consecutive whitespaces in a given string with a single space."}
+{"item": "H112", "sample_id": "alpaca_5858", "prompt": "Create a code that sums the first n Fibonacci numbers. num = 5"}
+{"item": "H113", "sample_id": "alpaca_17906", "prompt": "You need to write a program that finds all elements in a given array which are larger than their immediate neighbours. [3, 5, 1, 6, 8, 4]"}
+{"item": "H114", "sample_id": "alpaca_13978", "prompt": "Compact a given list into a dictionary with unique items as keys. given_list = [1,1,1,2,2,3]"}
+{"item": "H115", "sample_id": "alpaca_7687", "prompt": "Create a function that takes two strings, s1 and s2, and checks to see if s2 is a substring of s1 s1 = \"Hello World\"\ns2 = \"Hello\""}
+{"item": "H116", "sample_id": "alpaca_17852", "prompt": "Given a number n, generate a list of tuples of the form (x,n/x) where x divides n. n = 30"}
+{"item": "H117", "sample_id": "alpaca_17112", "prompt": "Create a dictionary comprehension to create a dictionary with the values from the given list. list = [\"a\",\"b\",\"c\"]"}
+{"item": "H118", "sample_id": "alpaca_8099", "prompt": "Create an API endpoint that takes two inputs (phone number and name) and updates contact details in the database."}
+{"item": "H119", "sample_id": "alpaca_123", "prompt": "Create a new folder called 'data' within the current working directory."}
+{"item": "H120", "sample_id": "alpaca_8259", "prompt": "Edit the following code for optimal performance. def sum_nums():\n    result = 0 \n    for i in range(10):\n        result += i\n    return result"}
+{"item": "H121", "sample_id": "alpaca_7338", "prompt": "Change the second element of a tuple. my_tuple = (1,2,3)"}
+{"item": "H122", "sample_id": "alpaca_13332", "prompt": "Extract the phone numbers from a string of text text = \"My number is (202) 555-0123 and my friend's number is (703) 555-9876\""}
+{"item": "H123", "sample_id": "alpaca_600", "prompt": "Write an API to return the average transaction amount of a customer."}
+{"item": "H124", "sample_id": "alpaca_2850", "prompt": "Create a function that returns true if number is divisible by 5."}
+{"item": "H125", "sample_id": "alpaca_16057", "prompt": "Create a code to check whether two words are nearly identical. Word A: bte\nWord B: tree"}
+{"item": "H126", "sample_id": "alpaca_6771", "prompt": "Find the lowest common multiple of two numbers a and b. a = 12, b = 15"}
+{"item": "H127", "sample_id": "alpaca_16673", "prompt": "Write a Python script to check if two string variables are anagrams or not."}
+{"item": "H128", "sample_id": "alpaca_10120", "prompt": "Using the provided data, generate a heatmap that contains the temperature readings for each hour. data = [[7,15,22], [2,7,23], [9,12,25]]"}
+{"item": "H129", "sample_id": "alpaca_4813", "prompt": "Merge two dictionaries into another dictionary dict1 = {'a':1, 'b':2}\ndict2 = {'c':3, 'd':4}"}
+{"item": "H130", "sample_id": "alpaca_686", "prompt": "Create a Python function which takes an array and returns true if the array contains all unique values. array = [1, 2, 3, 2]"}
+{"item": "H131", "sample_id": "alpaca_14140", "prompt": "Create a Python function to sort a list of dictionaries in ascending order of \"count\". data = [\n    {'name': 'Alice', 'count': 5}, \n    {'name': 'Bob', 'count': 3}, \n    {'name': 'John', 'count': 7},\n    {'name': 'David', 'count': 4},\n]"}
+{"item": "H132", "sample_id": "alpaca_7795", "prompt": "Parse the following JSON string in Python. {\"name\":\"John\",\"age\":30,\"city\":\"New York\"}"}
+{"item": "H133", "sample_id": "alpaca_3606", "prompt": "Develop a Python program to calculate the greatest common factor of two positive integers."}
+{"item": "H134", "sample_id": "alpaca_13827", "prompt": "Suggest a code to create an empty list."}
+{"item": "H135", "sample_id": "alpaca_19891", "prompt": "What is the command to delete all occurrences of the element \"5\" from a given Python array?"}
+{"item": "H136", "sample_id": "alpaca_14368", "prompt": "Design a linked list data structure."}
+{"item": "H137", "sample_id": "alpaca_17794", "prompt": "Write a code to reverse each element of an array array = ['apple','dog','cat','mouse','ball']"}
+{"item": "H138", "sample_id": "alpaca_17196", "prompt": "Suggest ways to improve the performance of the following list implementation. class List: \n  def __init__(self): \n    self.items = [] \n  \n  def append(self, item):\n    self.items.append(item) \n    \n  def remove(self, item): \n     self.items.remove(item)"}
+{"item": "H139", "sample_id": "alpaca_1651", "prompt": "Construct an algorithm in python to find the length of the longest common substring between two strings str1 = \"'abbcdefg\"\nstr2 = \"zabxdefujh\""}
+{"item": "H140", "sample_id": "alpaca_1507", "prompt": "Write an algorithm to count the number of times the letter 'e' appears in a given string. my_string = \"Hello World\""}
+{"item": "H141", "sample_id": "alpaca_6762", "prompt": "Find all the factors of N (greater than 0), add them together and return the result. N = 30"}
+{"item": "H142", "sample_id": "alpaca_4409", "prompt": "Using the re library, trim the following string of all whitespace. my_string = \"  Hello, World!  \""}
+{"item": "H143", "sample_id": "alpaca_10644", "prompt": "Construct a 2-dimensional array, A, of size M*N, filled with all zeroes. M=4, N=5"}
+{"item": "H144", "sample_id": "alpaca_18603", "prompt": "Write a code to convert all the letters of a string to lowercase. Input string: \"HELLO WORLD\""}
+{"item": "H145", "sample_id": "alpaca_2415", "prompt": "Given a string and an integer, write a code to find the index of first occurrence of the integer in the string. my_string = \"abcdef\"\nmy_int = 2"}
+{"item": "H146", "sample_id": "alpaca_19662", "prompt": "Split a given string on the separator “:”. sentence = \"This:is:a:string\""}
+{"item": "H147", "sample_id": "alpaca_2412", "prompt": "Given a string and an integer, write a program to compare the string with the integer and return the longer string. my_string = \"Hello\"\nmy_int = 1"}
+{"item": "H148", "sample_id": "alpaca_10339", "prompt": "Given a list of integers, write a function in Python to sort and reverse the list. input_list = [3, 8, 10, 1, 9]"}
+{"item": "H149", "sample_id": "alpaca_10860", "prompt": "Change the Python code to output the product of two numbers. def multiply(a, b): \n    return a + b"}
+{"item": "H150", "sample_id": "alpaca_13032", "prompt": "Generate a list of unique numbers between A and B where both A and B are input parameters. a = 0\nb = 5"}
+{"item": "H151", "sample_id": "alpaca_19513", "prompt": "Define a function in Python that takes a number as an argument and returns its cube."}
+{"item": "H152", "sample_id": "alpaca_202", "prompt": "Write a code to convert a given list of strings to uppercase. mylist = [\"hello\",\"world\"]"}
+{"item": "H153", "sample_id": "alpaca_18161", "prompt": "Sort the users in alphabetical order by their name. users = [{'name': 'John', 'age': 25}, {'name': 'Alice', 'age': 28}, {'name': 'Bob', 'age': 39}]"}
+{"item": "H154", "sample_id": "alpaca_2094", "prompt": "Using the given function, find the transpose of the given matrix. matrix = [[2, 3, 4], [1, 5, 3]]\n\ndef transpose(arr):"}
+{"item": "H155", "sample_id": "alpaca_2364", "prompt": "Find the most frequently occurring element in an array."}
+{"item": "H156", "sample_id": "alpaca_14656", "prompt": "Write a Python program to prompt the user for a string and print the number of unique characters it contains."}
+{"item": "H157", "sample_id": "alpaca_18083", "prompt": "Remove the element at a given index from an array. arr = [4, 10, 15, 23, 0]\nindex = 3"}
+{"item": "H158", "sample_id": "alpaca_1083", "prompt": "Calculate the total cost of items purchased by a customer. price1 = 10\nquantity1 = 5\nprice2 = 15\nquantity2 = 3"}
+{"item": "H159", "sample_id": "alpaca_2603", "prompt": "Use the following list to create an array in Python."}
+{"item": "H160", "sample_id": "alpaca_9970", "prompt": "Construct a multi-threaded application in Python to read and calculate the sum of a list of numbers. List of numbers:[25, 10, 5, 20]"}
+{"item": "H161", "sample_id": "alpaca_6321", "prompt": "Convert the given for loop code to a functional programming approach. list = [1,2,3,4]\nfor i in list:\n    new_list.append(i * 2)"}
+{"item": "H162", "sample_id": "alpaca_19035", "prompt": "Create a function to split a string into substrings based on a given separator. string = \"apple,banana,cherry\""}
+{"item": "H163", "sample_id": "alpaca_19389", "prompt": "Edit the code to display the output “Welcome to coding!” print(\"Welcome to code\")"}
+{"item": "H164", "sample_id": "alpaca_16069", "prompt": "Write a function that takes a string and returns the letter which appears most frequently. s = \"apple\""}
+{"item": "H165", "sample_id": "alpaca_13228", "prompt": "Create a regex to identify valid IPV4 addresses."}
+{"item": "H166", "sample_id": "alpaca_853", "prompt": "Write an expression to calculate the average of the values in the following list lst = [3, 8, 13, 5, 9]"}
+{"item": "H167", "sample_id": "alpaca_13924", "prompt": "Given two sorted arrays, find elements that exist in both arrays. arr1 = [1, 2, 5, 8, 9, 10] \narr2 = [2, 5, 6, 9]"}
+{"item": "H168", "sample_id": "alpaca_12702", "prompt": "Write a function to query a database table 'trips' and return a list of all trips made over the past three months."}
+{"item": "H169", "sample_id": "alpaca_5135", "prompt": "Parse the following XML code and print all the \"name\" fields. <employees>\n    <employee>\n        <name>John</name>\n        <age>35</age>\n    </employee>\n    <employee>\n        <name>Alex</name>\n        <age>42</age>\n    </employee>\n</employees>"}
+{"item": "H170", "sample_id": "alpaca_10345", "prompt": "Find the reverse of an array in Python. arr = [1, 2, 3, 4, 5]"}
+{"item": "H171", "sample_id": "alpaca_14860", "prompt": "Modify the code so that it prints \"Python is the best language\" five times. for i in range(10):\n    print(\"Python is great!\")"}
+{"item": "H172", "sample_id": "alpaca_11678", "prompt": "Design a function to get the number of elements in a JSON array in Python. [{\"name\":\"John\"},{\"name\":\"Bob\"},{\"name\":\"Alice\"}]"}
+{"item": "H173", "sample_id": "alpaca_990", "prompt": "Create an algorithm to detect if a string is a palindrome or not."}
+{"item": "H174", "sample_id": "alpaca_9384", "prompt": "Sum up all the values in a 2D list. list = [[1,2,3],[4,5,6],[7,8,9]]"}
+{"item": "H175", "sample_id": "alpaca_11620", "prompt": "Fix the following code to prevent errors from crashing the program. def foo(a):\n    print(a)\nfoo(\"hi\")\nfoo(1)"}
+{"item": "H176", "sample_id": "alpaca_240", "prompt": "Write a Django Model API to store status and published date for a blog post."}
+{"item": "H177", "sample_id": "alpaca_15033", "prompt": "Create a user-defined type in Python to store information about a person."}
+{"item": "H178", "sample_id": "alpaca_3453", "prompt": "Write a function to concatenate two strings in Python."}
+{"item": "H179", "sample_id": "alpaca_12012", "prompt": "Find the longest substring with non-repeating characters"}
+{"item": "H180", "sample_id": "alpaca_68", "prompt": "Write an algorithm in Python to determine if a number is even or odd."}
+{"item": "H181", "sample_id": "alpaca_1402", "prompt": "Write a function that takes three parameters; a list of strings, an index of integers, and an alphabet string. The function should return only the items from the list at the specified indexes using letters from the alphabet as keys. list_of_strings = [\"Foo\", \"Bar\", \"Baz\"]\nindexes = [0,2]\nalphabet_string = \"abc123\""}
+{"item": "H182", "sample_id": "alpaca_19423", "prompt": "Convert this function from a for loop to a while loop. def cumsum(lst):\n    sum = 0\n    new_lst = []\n    for n in lst:\n        sum += n\n        new_lst.append(sum)\n    return new_lst"}
+{"item": "H183", "sample_id": "alpaca_10300", "prompt": "Sort the list using Quick Sort [2, 3, 5, 6, 1, 4]"}
+{"item": "H184", "sample_id": "alpaca_10505", "prompt": "Convert this list of strings to a single string without using the \"join\" method. str_list = [\"I\", \"am\", \"a\", \"list\", \"of\", \"strings\"]"}
+{"item": "H185", "sample_id": "alpaca_17132", "prompt": "Insert the proper code to convert the given address from string to a dictionary. address = \"901 Grand Absinth Avenue,Anytown, ST, 98765\""}
+{"item": "H186", "sample_id": "alpaca_4687", "prompt": "Go through the following code and make sure there is an appropriate return statement at the end. def add_two_numbers(num1, num2):\n    num3 = num1 + num2\n    print(num3)"}
+{"item": "H187", "sample_id": "alpaca_2830", "prompt": "Output the last three elements of a list. my_list = [7, 1, 5, 4, 0]"}
+{"item": "H188", "sample_id": "alpaca_7532", "prompt": "Show an example of a while loop in Python."}
+{"item": "H189", "sample_id": "alpaca_11472", "prompt": "Create a Python program to take the input and print the output as shown in the example below. list1 = [10, 20, 30, [40, 50], [60, 70], 80]"}
+{"item": "H190", "sample_id": "alpaca_14351", "prompt": "Design a program in Python which takes a string as input and returns a list of words from the string. string1 = 'Python Programming is Fun!'"}
+{"item": "H191", "sample_id": "alpaca_10276", "prompt": "Write a Python program to print a random integer between 0 and 5."}
+{"item": "H192", "sample_id": "alpaca_11311", "prompt": "Make a HTTP request to get the content of the given URL. https://example.com"}
+{"item": "H193", "sample_id": "alpaca_14591", "prompt": "Create a function to output true if the given string is a palindrome, otherwise output false. string = \"racecar\""}
+{"item": "H194", "sample_id": "alpaca_2751", "prompt": "Write a code to create an object using a class constructor having attributes given in a dictionary. attributes = {'name': 'John', 'age': 20, 'gender': 'M', 'hobbies': ['books', 'sports']}"}
+{"item": "H195", "sample_id": "alpaca_10957", "prompt": "Train a model in PyTorch to classify the following dataset into 4 classes."}
+{"item": "H196", "sample_id": "alpaca_18789", "prompt": "Calculate the factorial of an integer using recursion."}
+{"item": "H197", "sample_id": "alpaca_1812", "prompt": "Write a function to print the maximum and minimum number in a given list. my_list = [5, 4, 7, 1, 2]"}
+{"item": "H198", "sample_id": "alpaca_5885", "prompt": "Create a Python class to represent a Person object. The class should contain the person's name, age, and occupation."}
+{"item": "H199", "sample_id": "alpaca_5230", "prompt": "Create a class in Python to represent a car and include methods to set and get the car's color, model, and year."}
+{"item": "H200", "sample_id": "alpaca_5720", "prompt": "Create a program that finds all the prime numbers between 1-100"}
+{"item": "H201", "sample_id": "alpaca_196", "prompt": "Write a code to remove the duplicates from a given list. mylist = [1,2,3,1,2]"}
+{"item": "H202", "sample_id": "alpaca_6661", "prompt": "Design a program to remove punctuations from a given string."}
+{"item": "H203", "sample_id": "alpaca_18047", "prompt": "Create a function to take two input strings and return the longest common substring. Input 1: ababcd\nInput 2: abxyz"}
+{"item": "H204", "sample_id": "alpaca_15620", "prompt": "Develop a program to accept one number from the user and display its factorial using a Python function. 5"}
+{"item": "H205", "sample_id": "alpaca_1903", "prompt": "Create a code to find all prime numbers between 2 and a given integer."}
+{"item": "H206", "sample_id": "alpaca_2758", "prompt": "Create a class in Python which has a method to sort an array of numbers in increasing order. nums = [4, 3, 1, 6]"}
+{"item": "H207", "sample_id": "alpaca_4148", "prompt": "Parse a given JSON string and extract all the values of the key \"name\". json_str = '{\"name\": \"Jack\", \"age\": 22, \"status\": \"Active\"}'"}
+{"item": "H208", "sample_id": "alpaca_17498", "prompt": "Split a given string according to the given delimiter. my_string = \"This is a test string\"\ndelimiter = \" \""}
+{"item": "H209", "sample_id": "alpaca_4136", "prompt": "Construct an object that contains the properties for an employee’s name, phone number, and salary."}
+{"item": "H210", "sample_id": "alpaca_10824", "prompt": "Format the following string using the str.format() method. String: The name of the person is {} and his age is {}"}
+{"item": "H211", "sample_id": "alpaca_6089", "prompt": "Write a Python program to compare two given lists and return True if their contents are the same. list1 = [1, 3, 8, 9]\nlist2 = [1, 3, 8, 9]"}
+{"item": "H212", "sample_id": "alpaca_1683", "prompt": "Create a dictionary with two key-value pairs in Python."}
+{"item": "H213", "sample_id": "alpaca_7868", "prompt": "Create a function to get the root of a quadratic equation 1, 4, 4"}
+{"item": "H214", "sample_id": "alpaca_3860", "prompt": "How can you complete the console.log statement so that it prints the value of the variable `a`? let a = 5;\nconsole.log("}
+{"item": "H215", "sample_id": "alpaca_1719", "prompt": "Sort this list of strings alphabetically. strings = ['hello', 'world', 'this', 'is', 'a', 'list', 'of', 'strings']"}
+{"item": "H216", "sample_id": "alpaca_5220", "prompt": "Create a function to accept an array of integers and return an array with the corresponding squares of each element. arr = [1, 2, 3, 4]"}
+{"item": "H217", "sample_id": "alpaca_13273", "prompt": "Using the list of strings, create a new list without any vowels. strings = ['apple', 'ball', 'cat']"}
+{"item": "H218", "sample_id": "alpaca_438", "prompt": "Calculate the sum of all elements in a given list using Python. list1 = [1, 2 ,3, 4, 5]"}
+{"item": "H219", "sample_id": "alpaca_2367", "prompt": "Write a TensorFlow code to classify MNIST."}
+{"item": "H220", "sample_id": "alpaca_8673", "prompt": "Create a function that takes a given string and encodes it with a specified cipher. encoding_cipher = {\"a\" : \"x\", \"b\" : \"y\", \"c\": \"z\"}\nstring = \"abc\""}
+{"item": "H221", "sample_id": "alpaca_8660", "prompt": "Write a function called \"power\" that takes two numbers a and b as arguments, and returns a to the power of b."}
+{"item": "H222", "sample_id": "alpaca_16910", "prompt": "Debug the following code and make sure the program runs as expected. def number_divisible(x, y):\n      for i in range(x):\n            if i % y = 0 :\n                  print(i)"}
+{"item": "H223", "sample_id": "alpaca_18725", "prompt": "Generate a syntax-correct program to calculate the sum of the elements in a given 2D array"}
+{"item": "H224", "sample_id": "alpaca_17828", "prompt": "Create a program that takes in two strings and prints out common words str1 = \"The quick brown fox\"\nstr2 = \"The brown rabbit\""}
+{"item": "H225", "sample_id": "alpaca_14755", "prompt": "Rewrite the program to get the same output def find_sum(x):\n   sum = 0\n   for i in range(1,x):\n      if i % 3 == 0 or i % 5 == 0:\n        sum += i\n   return sum"}
+{"item": "H226", "sample_id": "alpaca_12749", "prompt": "Find the number of times the element 2 appears in the following array arr = [2, 3, 5, 7, 2, 6, 2]"}
+{"item": "H227", "sample_id": "alpaca_6533", "prompt": "Create a script in Python to search a given string for a substring string = \"Hello World!\"\nsubstring = \"llo\""}
+{"item": "H228", "sample_id": "alpaca_12399", "prompt": "Code a function that takes a dictionary as a parameter and prints out the key-value pairs."}
+{"item": "H229", "sample_id": "alpaca_16730", "prompt": "Write a function which takes a list and an additional argument, and returns the elements of the list which are greater than the argument. list = [10, 20, 30, 40, 50, 60]\nargument = 25"}
+{"item": "H230", "sample_id": "alpaca_15594", "prompt": "Define a class for a student."}
+{"item": "H231", "sample_id": "alpaca_4153", "prompt": "Count the number of occurrences of each character in a given string and print the output. str = \"abbabbabbb\""}
+{"item": "H232", "sample_id": "alpaca_13797", "prompt": "Edit this code to sort a list of strings alphabetically mylist = [\"Eggs\", \"Cheese\", \"Milk\"]"}
+{"item": "H233", "sample_id": "alpaca_2984", "prompt": "Write code to sort a given array of strings. [\"cat\", \"dog\", \"bird\", \"fish\"]"}
+{"item": "H234", "sample_id": "alpaca_4009", "prompt": "Develop a program to generate a random number in a given range. Lower = 5 and Upper = 20"}
+{"item": "H235", "sample_id": "alpaca_9306", "prompt": "Write a Python function that takes two lists and returns a new list which contains only the unique elements from both of the lists. list1=[1,2,3,4]\nlist2=[3,4,5,6]"}
+{"item": "H236", "sample_id": "alpaca_18720", "prompt": "Construct a sorting algorithm to sort an array in increasing order. array = [4,7,1,3,9]"}
+{"item": "H237", "sample_id": "alpaca_18397", "prompt": "Write a regular expression that will check if a given string contains valid phone numbers. String: Please contact us at 021-555-3119 or email me at contact@example.com"}
+{"item": "H238", "sample_id": "alpaca_7446", "prompt": "Create a class in Python to represent a book and include a method for getting the name of the book."}
+{"item": "H239", "sample_id": "alpaca_15002", "prompt": "Identify and correct the bug in the following program. def square_numbers(lst):\n    lst_sq = []\n    lst_sq.append(lst[i] ** 2 for i in range(len(lst)))\n    return lst_sq"}
+{"item": "H240", "sample_id": "alpaca_13949", "prompt": "Edit this code so that it can marshall a json object import json\ndata = {\n    \"name\": \"John Doe\",\n    \"age\": 30\n}"}
+{"item": "H241", "sample_id": "alpaca_10213", "prompt": "Change the code so that it swaps the contents of two variables in one line. a = 5\nb = 10"}
+{"item": "H242", "sample_id": "alpaca_6176", "prompt": "Create a script in Python that plots a bar chart showing the count of beers sold in a bar in a particular week. beer_sales = [200, 500, 600, 100, 800]"}
+{"item": "H243", "sample_id": "alpaca_11943", "prompt": "Write a code to delete the 4th element from the list. mylist = [1, 2, 3, 4, 5]"}
+{"item": "H244", "sample_id": "alpaca_13699", "prompt": "Read this JSON structure, parse it and print the value of \"name\". { \n  \"person\": { \n    \"name\":\"John\", \n    \"age\": 30, \n    \"location\": \"USA\"\n  }\n}"}
+{"item": "H245", "sample_id": "alpaca_7057", "prompt": "Given a class definition, write a method to count the number of objects created in the class. class Student:\n    def __init__(self, name, age):\n        self.name = name\n        self.age = age"}
+{"item": "H246", "sample_id": "alpaca_2755", "prompt": "Create a function to convert the given string to hexadecimal code."}
+{"item": "H247", "sample_id": "alpaca_2466", "prompt": "Rewrite the following code so that it is more efficient. odds = []\nfor num in range(10):\n if num % 2 != 0:\n odds.append(num)"}
+{"item": "H248", "sample_id": "alpaca_273", "prompt": "classify the following sentence using a sentiment analysis model. The movie is awesome."}
+{"item": "H249", "sample_id": "alpaca_3485", "prompt": "Create a variable called \"score\" with the value of 0."}
+{"item": "H250", "sample_id": "alpaca_5667", "prompt": "Given the following two lists, combine them into a single list containing each element of both the lists in order. list_first = [1, 2, 3]\nlist_second = [4, 5, 6]"}
+{"item": "H251", "sample_id": "alpaca_7253", "prompt": "Debug the following code to correct a logical error. def sort_list(nums):\n    sorted_nums = []\n    for i in range(len(nums)):\n        print(max(nums))\n        sorted_nums.append(max(nums))\n        nums.remove(max(nums))\n    return sorted_nums"}
+{"item": "H252", "sample_id": "alpaca_13120", "prompt": "Write a function that takes a list of strings and joins them together with a pipe (|). words = [\"Apple\", \"App\", \"Application\", \"Applications\", \"Apples\", \"Ace\", \"Acer\"]"}
+{"item": "H253", "sample_id": "alpaca_3873", "prompt": "Write a Python script to create a webserver that can respond to \"GET\" requests from a web browser."}
+{"item": "H254", "sample_id": "alpaca_7355", "prompt": "Given the following list of numbers, find the minimum value. numbers = [2, 4, 9, 3, 8]"}
+{"item": "H255", "sample_id": "alpaca_9876", "prompt": "Write a function to decode a string encoded using Base64. encoded_s = \"TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgdGluY2lkdXJlIGV4c2VlIGRlc2VydW50IG1vbGxpdCBhbmltIGlwc3VtIHRlbXBvcmUgYSBjb25zZXF1YXQgcXVpcyBkb2xvcmVtIG5pc2ku"}
+{"item": "H256", "sample_id": "alpaca_13321", "prompt": "Rewrite the given Python code snippet using list comprehensions . even_list = []\nfor x in my_list:\n    if x % 2 == 0:\n        even_list.append(x)"}
+{"item": "H257", "sample_id": "alpaca_2360", "prompt": "Create a loop that prints the values from a and b in the ascending order. a = 5\nb = 10"}
+{"item": "H258", "sample_id": "alpaca_16356", "prompt": "Calculate the sum of all the multiples of 3 and 5 between 0 and n n = 10"}
+{"item": "H259", "sample_id": "alpaca_17589", "prompt": "Edit this code to make the function take an integer n as an argument and print the fibonacci series till nth term. n = 10"}
+{"item": "H260", "sample_id": "alpaca_1664", "prompt": "Categorize a given list of integers into odd and even numbers. [1,2,3,4,5,6,7,8,9]"}
+{"item": "H261", "sample_id": "alpaca_9715", "prompt": "Create a list of 10 strings in Python and print each string in a separate line."}
+{"item": "H262", "sample_id": "alpaca_11217", "prompt": "Create a Python program to extract the URLs from a given list of strings. ['https://stackoverflow.com/questions/42063887/how-to-extract-urls-from-a-list-of-strings-in-python',\n 'This is an example of a string without a URL']"}
+{"item": "H263", "sample_id": "alpaca_12059", "prompt": "Implement a function in Python that makes a copy of a list. my_list = [1, 2, 3, 4]"}
+{"item": "H264", "sample_id": "alpaca_1961", "prompt": "Write a function in Python to convert JSON data into a Python dictionary. json_data = '{\"name\":\"John\",\"age\":30,\"city\":\"New York\"}'"}
+{"item": "H265", "sample_id": "alpaca_16269", "prompt": "Create a Django model that includes a user's name, email address, and age."}
+{"item": "H266", "sample_id": "alpaca_5399", "prompt": "Given a matrix, write a program to traverse it spirally. matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]"}
+{"item": "H267", "sample_id": "alpaca_16411", "prompt": "Unwrap the function parameter with default argument. def func(arg1, arg2=\"default\"):\n    pass"}
+{"item": "H268", "sample_id": "alpaca_5261", "prompt": "Create an object named 'person' and assign the properties 'name', 'age', and 'hobby'. \"name\": \"John\",\n\"age\": 18,\n\"hobby\": \"reading\""}
+{"item": "H269", "sample_id": "alpaca_19988", "prompt": "Write a MongoDB query to select all documents in a collection where the field 'category' is 'clothes'."}
+{"item": "H270", "sample_id": "alpaca_15313", "prompt": "Write a function that takes an array and returns the number of elements that are even. arr = [1, 5, 7, 4, 9, 17]"}
+{"item": "H271", "sample_id": "alpaca_2303", "prompt": "Write a Python function to return an array of adjacent (horizontal and vertical) numbers of a given two-dimensional array. [[1, 2, 3],\n[4, 5, 6],\n[7, 8, 9]]"}
+{"item": "H272", "sample_id": "alpaca_10009", "prompt": "Create a data structure to store employee information."}
+{"item": "H273", "sample_id": "alpaca_10967", "prompt": "Build a function to convert an adjacency matrix into an adjacency list. A = \n[[0, 1, 0, 0], \n [1, 0, 1, 1], \n [0, 1, 0, 0], \n [0, 1, 0, 0]]"}
+{"item": "H274", "sample_id": "alpaca_9064", "prompt": "Design a function to generate the random password"}
+{"item": "H275", "sample_id": "alpaca_11748", "prompt": "Write a for loop for the following dictionary. my_dict = {'first': 'one', 'second': 'two', 'third': 'three'}"}
+{"item": "H276", "sample_id": "alpaca_3252", "prompt": "Create a program to apply upper case to a given string. String = \"welcome to The world Of gEEks\""}
+{"item": "H277", "sample_id": "alpaca_12944", "prompt": "Create an HTTP request to retrieve data from an API. API_URL = \"https://example.com/api/get_data\""}
+{"item": "H278", "sample_id": "alpaca_2458", "prompt": "Create an array of strings sorted by length. array = [\"dog\", \"cat\", \"horse\", \"elephant\"]"}
+{"item": "H279", "sample_id": "alpaca_15211", "prompt": "Create a algorithm to calculate the fibonacci number of nth term."}
+{"item": "H280", "sample_id": "alpaca_11279", "prompt": "Generate a regular expression that can detect if the length of given strings is above 10."}
+{"item": "H281", "sample_id": "alpaca_3157", "prompt": "Select a random element from a given list. list = [1, 5, 8, 10]"}
+{"item": "H282", "sample_id": "alpaca_3251", "prompt": "Create a program to output an array of words from a given string. String = \"Welcome to the world of Geeks\""}
+{"item": "H283", "sample_id": "alpaca_12407", "prompt": "Create a function to determine if two strings are symmetrical."}
+{"item": "H284", "sample_id": "alpaca_6325", "prompt": "Write a Python program to sort the dictionary by key. myDict = {'a': 1, 'c': 3, 'b': 2}"}
+{"item": "H285", "sample_id": "alpaca_4583", "prompt": "Write a method to sum up two matrices Matrix A: [[3, 5, 7],\n           [1, 6, 9]]\nMatrix B: [[4, 8, 2],\n           [3, 5, 7]]"}
+{"item": "H286", "sample_id": "alpaca_10901", "prompt": "Write a function to check if an integer is a multiple of another integer."}
+{"item": "H287", "sample_id": "alpaca_932", "prompt": "Write a sorting algorithm that sorts an array using a bubble sort. nums=[3,4,1,2,9,6]"}
+{"item": "H288", "sample_id": "alpaca_6733", "prompt": "Write a Python program to collect the data from the form below. Name: John \nEmail: john@email.com \nPhone: (999)-999-9999"}
+{"item": "H289", "sample_id": "alpaca_9274", "prompt": "Fix the code by making changes with the appropriate syntax. def add_two_numbers(a, b)\n\treturn a + b"}
+{"item": "H290", "sample_id": "alpaca_15307", "prompt": "Write a code that takes a list of numbers, and outputs the 10th largest value. mylist = [2, 4, 54, 31, 34, 77, 29, 11, 44, 78, 65, 23]"}
+{"item": "H291", "sample_id": "alpaca_9049", "prompt": "Replace the character at the second index with \"X\". s = \"Hello!\""}
+{"item": "H292", "sample_id": "alpaca_4135", "prompt": "Update a variable to be the negative of its value. x = 5"}
+{"item": "H293", "sample_id": "alpaca_14788", "prompt": "Extract a character's count from a given string. string = \"this is a sample string\""}
+{"item": "H294", "sample_id": "alpaca_17554", "prompt": "Generate a class like this using SQLAlchemy. class Foo:\n    id = Column(Integer, primary_key=True)\n    bar = Column(String)"}
+{"item": "H295", "sample_id": "alpaca_2737", "prompt": "Write a code that takes a string and an integer as arguments and returns the number of words in the string that are of the provided length. String: \"Hello World\"\nLength: 5"}
+{"item": "H296", "sample_id": "alpaca_8739", "prompt": "Rewrite the following code in a more descriptive style and make it easier to read. for i in range(1, n):\n    for j in range(1, n):\n        if i + j == n:\n            print(i, j)"}
+{"item": "H297", "sample_id": "alpaca_16436", "prompt": "Write a function, which given an array and a number, returns the array with the number added. arr = [1, 2, 3, 4]\nnum = 10"}
+{"item": "H298", "sample_id": "alpaca_17848", "prompt": "Create a class named Dog with parameters name, age and breed."}
+{"item": "H299", "sample_id": "alpaca_1505", "prompt": "Change the following loop so that it prints out the numbers from 10 to 1 in descending order. for i in range(1, 11):\n    print(i)"}
+{"item": "H300", "sample_id": "alpaca_8906", "prompt": "Replace the \"TODO\" comment in the following Python statement with an appropriate value. count = 0\n# TODO: add 1 to count"}
+{"item": "H301", "sample_id": "alpaca_3368", "prompt": "You need to generate an API which returns the first 10 Fibonacci numbers."}
+{"item": "H302", "sample_id": "alpaca_629", "prompt": "Implement a reverse method to reverse the content of an array. [1, 2, 3, 4, 5]"}
+{"item": "H303", "sample_id": "alpaca_9056", "prompt": "Suggest a code to iterate a list of numbers and add them to a variable. list_of_numbers = [10, 20, 30, 40]"}
+{"item": "H304", "sample_id": "alpaca_13975", "prompt": "Create an array of length 10 from a given list of values. given_list = [1, 2, 3, 4, 5]"}
+{"item": "H305", "sample_id": "alpaca_13408", "prompt": "Write a postfix expression to an infix expression 3 4 + 5 *"}
+{"item": "H306", "sample_id": "alpaca_16351", "prompt": "Identify the Python command to search a string for a specific keyword."}
+{"item": "H307", "sample_id": "alpaca_13341", "prompt": "Modify the code below to check if the number is divisible by 2. num = 8"}
+{"item": "H308", "sample_id": "alpaca_7684", "prompt": "Formulate a statement using Python that will return the value 'True' when the user's age is equal to 21. userage = 21"}
+{"item": "H309", "sample_id": "alpaca_7819", "prompt": "Write a function to reverse a given sentence in Python. Given sentence: \"The quick brown fox jumps over the lazy dog.\""}
+{"item": "H310", "sample_id": "alpaca_978", "prompt": "How would you modify the following code to make it more efficient? def find_word(word, text):\n    if word in text:\n        return \"Word found\"\n    else:\n        return \"Word not found\""}
+{"item": "H311", "sample_id": "alpaca_9470", "prompt": "Implement a basic calculator that takes an equation and outputs the result. \"3+3\""}
+{"item": "H312", "sample_id": "alpaca_1791", "prompt": "You need to make a function which takes two integers, a and b and prints out their sum."}
+{"item": "H313", "sample_id": "alpaca_15552", "prompt": "Implement a quicksort algorithm in Python to sort a list of 6 integers [52,85,23,6,37,77]. [52,85,23,6,37,77]"}
+{"item": "H314", "sample_id": "alpaca_19065", "prompt": "Suggest a code to print the first three positions in an array. Array = [1,2,3,4,5]"}
+{"item": "H315", "sample_id": "alpaca_11178", "prompt": "Write an algorithm to calculate the average of a list of integers given as input."}
+{"item": "H316", "sample_id": "alpaca_17414", "prompt": "Write a code to print a count-down timer."}
+{"item": "H317", "sample_id": "alpaca_7848", "prompt": "Write a regex (in Python) to match the following pattern: \"an apple a day keeps the doctor away\""}
+{"item": "H318", "sample_id": "alpaca_15564", "prompt": "Suggest a way of converting the following JSON object into CSV format. data = {\n    \"Name\": \"John Doe\",\n    \"Age\": \"50\",\n    \"Gender\": \"Male\"\n}"}
+{"item": "H319", "sample_id": "alpaca_2511", "prompt": "Design a Python function that computes the sum of two numbers."}
+{"item": "H320", "sample_id": "alpaca_2867", "prompt": "Write a Python function to find the number of odd numbers in the given list. [1, 4, 2, 6, 3, 9]"}
+{"item": "H321", "sample_id": "alpaca_7681", "prompt": "Design a function to filter words based on give characters. characters = \"aeiou\"\nwords = ['apple','elephant','mountain','river']"}
+{"item": "H322", "sample_id": "alpaca_5219", "prompt": "Create a program to convert a binary number to its decimal equivalent."}
+{"item": "H323", "sample_id": "alpaca_3650", "prompt": "Using the given list, create a code that will generate a unique list of numbers x = [4, 10, 16, 22, 28, 34]"}
+{"item": "H324", "sample_id": "alpaca_17901", "prompt": "Given a list of strings, write a function which will return only strings which start with an uppercase letter. String List = [\"hello\", \"World\", \"foo\", \"bar\"]"}
+{"item": "H325", "sample_id": "alpaca_19503", "prompt": "Write a function to compare two strings and return the number of character positions at which the strings in the two strings differ from each other. str1 = \"apple\"\nstr2 = \"animal\""}
+{"item": "H326", "sample_id": "alpaca_2807", "prompt": "Given a key and a value, write a function to store them in a dictionary. Key: 'name'\nValue: 'John'"}
+{"item": "H327", "sample_id": "alpaca_12855", "prompt": "Create a function to generate a random number within the range of 0 and 1000."}
+{"item": "H328", "sample_id": "alpaca_6473", "prompt": "Construct a class Student which will take in attributes name, age, and city upon initialization."}
+{"item": "H329", "sample_id": "alpaca_15610", "prompt": "Construct an if-else statement to print \"Good Evening\" if the time is past 5pm and print \"Good Morning\" otherwise."}
+{"item": "H330", "sample_id": "alpaca_15415", "prompt": "Using the given code, construct a json request payload. data = {\n    \"name\": \"John Doe\",\n    \"age\": 30\n}"}
+{"item": "H331", "sample_id": "alpaca_17699", "prompt": "Copy and paste the code to convert a given decimal value to its binary equivalent. decimal_value = 17"}
+{"item": "H332", "sample_id": "alpaca_13748", "prompt": "Create a function to calculate the sum of numbers from a given list in Python."}
+{"item": "H333", "sample_id": "alpaca_3116", "prompt": "Write a Python program to convert all strings in a list to lower case"}
+{"item": "H334", "sample_id": "alpaca_5459", "prompt": "Define a function in Python that takes an integer and returns \"positive\" if it is positive, \"zero\" if the integer is 0, and \"negative\" if the integer is negative."}
+{"item": "H335", "sample_id": "alpaca_18452", "prompt": "Create a parameterized query in Python to find the details of a person."}
+{"item": "H336", "sample_id": "alpaca_8350", "prompt": "Create a function that sorts a list of dictionaries using the values. animals = [{\"name\": \"Dog\", \"age\": 5}, {\"name\": \"Cat\", \"age\": 3}, \n           {\"name\": \"Fish\", \"age\": 1}, {\"name\": \"Deer\", \"age\": 8}]"}
+{"item": "H337", "sample_id": "alpaca_5974", "prompt": "Write Python code to print the most frequent characters in a given string. String: I love apples"}
+{"item": "H338", "sample_id": "alpaca_14126", "prompt": "Given an array of strings, write a code snippet in Python that finds the longest string and prints its length. arr = [\"Dog\",\"Cat\",\"Mouse\"]"}
+{"item": "H339", "sample_id": "alpaca_11940", "prompt": "Create a Python script that calculates the surface area of a cylinder."}
+{"item": "H340", "sample_id": "alpaca_429", "prompt": "Using Python, create a list containing the first 20 prime numbers."}
+{"item": "H341", "sample_id": "alpaca_12731", "prompt": "Create a web scraper to extract the title and description of a given URL using BeautifulSoup. URL: https://www.example.com/"}
+{"item": "H342", "sample_id": "alpaca_17928", "prompt": "Complete the following Python code so it prints even numbers from 0 to 10. for num in range(0, 10):\n    if"}
+{"item": "H343", "sample_id": "alpaca_13006", "prompt": "Write a Python script to determine how many lowercase letters are in a given string. string = \"Hello World!\""}
+{"item": "H344", "sample_id": "alpaca_16170", "prompt": "Create a program to find the maximum and minimum from a given list my_list = [5, 7, 6, 3]"}
+{"item": "H345", "sample_id": "alpaca_11822", "prompt": "Construct a URL to search for a given query on Google query = 'Python programming'"}
+{"item": "H346", "sample_id": "alpaca_18944", "prompt": "Reimplement the function below, so that it takes in two int arguments and returns their sum instead of using the existing global variable x. x = 4\n\ndef add_x(y):\n  return x + y"}
+{"item": "H347", "sample_id": "alpaca_60", "prompt": "Generate a snippet of code to extract all the URLs from the given string. This string contains some urls such as https://www.google.com and https://www.facebook.com."}
+{"item": "H348", "sample_id": "alpaca_16347", "prompt": "Output the 7th element in the given array [5, 10, 20, 12, 15, 7]"}
+{"item": "H349", "sample_id": "alpaca_6061", "prompt": "Given a list of numbers, sort them in increasing order. nums = [2, 3, 1, 4, 5]"}
+{"item": "H350", "sample_id": "alpaca_5991", "prompt": "Using Python, create a function to return the number of days in a particular month. September"}
+{"item": "H351", "sample_id": "alpaca_4308", "prompt": "Provide a Python function to calculate the number of times a word appears in a given string \"This is a sample string. There are some words in this string.\""}
+{"item": "H352", "sample_id": "alpaca_1663", "prompt": "Implement a function to convert a given string into a list of words. My name is Anna."}
+{"item": "H353", "sample_id": "alpaca_13116", "prompt": "Create an algorithm that uses a hash table to detect if an element is a duplicate. array = [2, 3, 4, 5, 6, 3]"}
+{"item": "H354", "sample_id": "alpaca_3300", "prompt": "Write Python code to return all indices of substrings in a given string. string= \"hi world bye world\""}
+{"item": "H355", "sample_id": "alpaca_113", "prompt": "Write a Python program to print out an ASCII art of a given word. word = \"happy\""}
+{"item": "H356", "sample_id": "alpaca_10058", "prompt": "Write a code to identify the longest palindrome in a given string String: kayakracecar"}
+{"item": "H357", "sample_id": "alpaca_2294", "prompt": "Create a variable in Python that stores the value \"Hello World!\""}
+{"item": "H358", "sample_id": "alpaca_5000", "prompt": "Write a function in Python to select all the elements from a list whose index is a multiple of 3. test_list = [2, 5, 8, 12, 9, 82, 3]"}
+{"item": "H359", "sample_id": "alpaca_18979", "prompt": "Create a unit test for a given function to reverse a list of strings."}
+{"item": "H360", "sample_id": "alpaca_11745", "prompt": "Given a Dataframe, select the two columns as specified and store into a new separate Dataframe. import pandas as pd \n  \ndata = {'Name':['Tom', 'nick', 'krish', 'jack'], \n        'Age':[20, 21, 19, 18] \n       } \n\ndf = pd.DataFrame(data)  \n\ncols = ['Name', 'Age']"}
+{"item": "H361", "sample_id": "alpaca_17568", "prompt": "Calculate the scalar product of two vectors and print the result. Vector1: [1,2,3]\nVector2: [4,5,6]"}
+{"item": "H362", "sample_id": "alpaca_4607", "prompt": "Modify the following code to make it work with big integers. def multiply(x, y):\n    return x * y"}
+{"item": "H363", "sample_id": "alpaca_7111", "prompt": "Write a Python script to return the index of a specific value from a given list. List: [1,2,3,4,5]\nValue: 4"}
+{"item": "H364", "sample_id": "alpaca_1126", "prompt": "Suggest a method to remove a given item from a given list."}
+{"item": "H365", "sample_id": "alpaca_16799", "prompt": "Given a dataframe, write a function to add a new column that contains the results of a calculation between two columns. dataframe = Pandas DataFrame([[1, 2, 3], [4, 5, 6], [7, 8, 9]], columns=['A', 'B', 'C'])"}
+{"item": "H366", "sample_id": "alpaca_7699", "prompt": "Find the 2 smallest elements in a Python list of integers. [2, 3, 5, 8, 4, 9, 11]"}
+{"item": "H367", "sample_id": "alpaca_2172", "prompt": "Write a Python script for checking if a given number is an even or odd number."}
+{"item": "H368", "sample_id": "alpaca_10873", "prompt": "Find the position of an element in an array. arr = [1, 4, 7, 9]\ntarget = 4"}
+{"item": "H369", "sample_id": "alpaca_10140", "prompt": "Program a function to get the next element of a list. mylist = [1,3,5,7]"}
+{"item": "H370", "sample_id": "alpaca_2279", "prompt": "Write a Python program to swap the first and last element of a given list of integers. numbers = [2, 3, 4, 5, 6]"}
+{"item": "H371", "sample_id": "alpaca_14751", "prompt": "Compose a program to reverse a list of numbers"}
+{"item": "H372", "sample_id": "alpaca_14052", "prompt": "Design a class that stores the data of an individual employee"}
+{"item": "H373", "sample_id": "alpaca_1036", "prompt": "Write a code to create a 2-D array with size (4,4) and fill it with 1's."}
+{"item": "H374", "sample_id": "alpaca_18447", "prompt": "Create a function that prints the string passed to it as an argument."}
+{"item": "H375", "sample_id": "alpaca_19773", "prompt": "Extend the range from 25 to 35. my_list = list(range(25))"}
+{"item": "H376", "sample_id": "alpaca_15854", "prompt": "Create a class in Python for a student which should include the following fields: first name, last name, age, and grade."}
+{"item": "H377", "sample_id": "alpaca_11131", "prompt": "Compute the maximum amount of money X which can be obtained using two given coins of denomination A and B. A = 5 \nB = 7\nX = 31"}
+{"item": "H378", "sample_id": "alpaca_15249", "prompt": "Define a function to check whether string a is an anagram of string b. \"silent\" \n\"listen\""}
+{"item": "H379", "sample_id": "alpaca_8233", "prompt": "Find the probability of a random variable following a normal distribution with a mean of 10 and a standard deviation of 2. x = 12"}
+{"item": "H380", "sample_id": "alpaca_6373", "prompt": "Create a RNN model to predict the next character in a given string."}
+{"item": "H381", "sample_id": "alpaca_8376", "prompt": "How would you write a program to determine the greatest common divisor (GCD) of two non-negative integers?"}
+{"item": "H382", "sample_id": "alpaca_4117", "prompt": "Construct an if statement for Python that checks if a given number is greater than 5."}
+{"item": "H383", "sample_id": "alpaca_12844", "prompt": "Rewrite the following function so that it returns a tuple instead of two separate values. def random_arr(arr):\n    idx = random.randint(0,len(arr)-1)\n    return arr[idx], idx"}
+{"item": "H384", "sample_id": "alpaca_3526", "prompt": "Implement a function to print the Fibonacci series up to the nth term."}
+{"item": "H385", "sample_id": "alpaca_1118", "prompt": "Create a function to sort a given set of strings in dictionary order."}
+{"item": "H386", "sample_id": "alpaca_10535", "prompt": "Create a class definition in Python for a vehicle with attributes like make, model, year."}
+{"item": "H387", "sample_id": "alpaca_156", "prompt": "Construct an if-else statement that returns ‘even’ if the given number is even and ‘odd’ if the given number is odd."}
+{"item": "H388", "sample_id": "alpaca_4491", "prompt": "Create a boolean function to check whether a given string contains all alphabets phrase = \"The quick brown fox jumps over the lazy dog\""}
+{"item": "H389", "sample_id": "alpaca_1569", "prompt": "Write a Python script that prints the current date and time."}
+{"item": "H390", "sample_id": "alpaca_7875", "prompt": "Investigate the syntax error in this R script and fix it. x <- c(1, 2, 3"}
+{"item": "H391", "sample_id": "alpaca_15172", "prompt": "Write a function for removing duplicates from a given list list = [1, 2, 3, 3, 4, 2]"}
+{"item": "H392", "sample_id": "alpaca_19674", "prompt": "Print the length and the middle element of the given array. arr = [1, 2, 3, 4, 5]"}
+{"item": "H393", "sample_id": "alpaca_19153", "prompt": "Modify the given dictionary such that any keys that start with the letter 'b' are removed. my_dict = {\n \"ant\": \"animals\",\n \"ball\": \"toy\",\n \"cat\": \"pets\"\n}"}
+{"item": "H394", "sample_id": "alpaca_3740", "prompt": "Write a loop to print the numbers from 10 to 1 in reverse order."}
+{"item": "H395", "sample_id": "alpaca_4058", "prompt": "Develop a Python program that creates a random password of length 8 characters."}
+{"item": "H396", "sample_id": "alpaca_19111", "prompt": "Create a sorting algorithm to sort a given list of numbers from lowest to highest. [1, 4, 3, 7, 8, 10]"}
+{"item": "H397", "sample_id": "alpaca_19178", "prompt": "Write a Python function that takes in one argument and prints out the Fibonacci number for that argument."}
+{"item": "H398", "sample_id": "alpaca_13040", "prompt": "Create a Python function to find all unique values in a list. L = [1, 2, 4, 2, 1]"}
+{"item": "H399", "sample_id": "alpaca_3646", "prompt": "Make the following code more efficient def remove_dups(mylist):\n    newlist = []\n    for item in mylist:\n        if not item in newlist:\n            newlist.append(item)\n    return newlist"}
+{"item": "H400", "sample_id": "alpaca_15922", "prompt": "Create an algorithm that finds the maximum subarray sum in a given array. [-2, 1, -3, 4, -1, 2, 1, -5, 4]"}

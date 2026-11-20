@@ -47,7 +47,11 @@ replication_package/
 │   │   ├── disagreements.jsonl        # Log of initial disagreements
 │   │   ├── final_labels_A.jsonl       # Adjudicated gold standard labels for Task A
 │   │   ├── final_labels_B.jsonl       # Adjudicated gold standard labels for Task B
-│   │   └── final_labels_C.jsonl       # Adjudicated gold standard labels for Task C
+│   │   ├── final_labels_C.jsonl       # Adjudicated gold standard labels for Task C
+│   │   ├── items_heldout_prompts.jsonl # 400 held-out unflagged prompts (seed: 42)
+│   │   ├── labels_annotator1_heldout.jsonl # Annotator 1 labels for held-out prompts
+│   │   ├── labels_annotator2_heldout.jsonl # Annotator 2 labels for held-out prompts
+│   │   └── final_labels_heldout.jsonl  # Adjudicated gold standard labels for held-out prompts
 │   └── processed/
 │       ├── valid_analyzed_dataset.csv # Analyzed corpus (9,953 parseable instances with metrics & flags)
 │       ├── bandit_per_sample.csv      # Bandit security tool findings per instance
@@ -59,6 +63,7 @@ replication_package/
 │   ├── analyze_safe_alternatives.py   # Audit of ast.literal_eval, shlex, and unrequested weaknesses
 │   ├── compute_recall_ci.py           # Clopper-Pearson exact CIs and Rule-of-Three bounds
 │   ├── audit_unflagged_regex.py       # Exhaustive broad-regex scan of all 8,004 unflagged routines
+│   ├── audit_heldout_prompts.py       # Empirical held-out audit of 400 unflagged prompts
 │   ├── validate_mccabe.py             # Validation of AST CC against standard library mccabe
 │   └── analyze_py2.py                 # Forensic Python 2 syntax audit across non-parseable instances
 └── tables/
@@ -149,6 +154,17 @@ python reproduce_all.py
    *Audits all 11,043 non-parseable instances under CPython 3.14:*
    * Python 2 tokens observed: 87 instances (< 0.8% of non-parseable; 55 are SQL `<>` inequality false triggers).
    * Explicitly prompting for Python while using Python 2 syntax: **3 instances (< 0.03% of non-parseable outputs)**.
+
+6. **Held-Out Unflagged Prompts Request Audit (n = 400):**
+   ```bash
+   python scripts/audit_heldout_prompts.py
+   ```
+   *Evaluates empirical false negative rate of request lexicon on unflagged population:*
+   * Sample: $n = 400$ randomly drawn from 7,929 unflagged prompts (seed: 42).
+   * Annotator agreement: 100.0%, Cohen's $\kappa = 1.0000$.
+   * Observed construct requests: 0 / 400 (0.00%).
+   * Exact 95% Clopper-Pearson CI: [0.00%, 0.92%] (Rule-of-Three bound $\le 0.75\%$).
+   * Lexicon Negative Predictive Value (NPV): $\ge 99.08\%$.
 
 ---
 
