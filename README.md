@@ -108,19 +108,20 @@ python reproduce_all.py
    python scripts/fit_models.py
    ```
    *Estimates:*
-   * Primary model (Confirmed 49 events): $\text{OR}_{\text{req}} = 74.22$, $p = 9.21 \times 10^{-32}$, $\text{OR}_{\text{LoC}} = 1.47$ (95% CI [0.91, 2.36], $p = 0.343$).
+   * Primary model (Confirmed 49 events): $\text{OR}_{\text{req}} = 74.22$, $p = 1.15 \times 10^{-45}$, $\text{OR}_{\text{LoC}} = 1.47$ (95% CI [0.91, 2.36], $p = 0.117$).
    * Model with blind annotators' request labels: demonstrates quasi-complete separation ($Q=1 \implies Y=1$) due to Stratum A restriction.
-   * Model with expert-annotated "plausible weakness" outcome ($n = 41$): $\text{OR}_{\text{req}} = 55.32$, $p = 1.02 \times 10^{-20}$.
-   * Disaggregated security-relevant subset (CWE-676, CWE-78; 20 events): $\text{OR}_{\text{req}} = 143.27$, $p = 2.45 \times 10^{-22}$.
-   * Disaggregated reliability smell subset (CWE-703, CWE-400, CWE-617; 30 events): $\text{OR}_{\text{req}} = 46.16$, $p = 3.12 \times 10^{-18}$.
+   * Model with expert-annotated "plausible weakness" outcome ($n = 41$): $\text{OR}_{\text{req}} = 55.32$, $p = 7.02 \times 10^{-34}$, $\text{OR}_{\text{LoC}} = 1.57$ ($p = 0.037$).
+   * Disaggregated security-relevant subset (CWE-676, CWE-78; 20 events): $\text{OR}_{\text{req}} = 143.27$, $p = 4.88 \times 10^{-25}$.
+   * Disaggregated reliability smell subset (CWE-703, CWE-400, CWE-617; 30 events): $\text{OR}_{\text{req}} = 46.16$, $p = 4.14 \times 10^{-24}$.
+   * Cleaned lexicon model ($n = 96$ requests): $\text{OR}_{\text{req}} = 86.74$, $p = 2.45 \times 10^{-46}$.
 
 2. **Safe Alternatives and Unrequested Weaknesses Analysis:**
    ```bash
    python scripts/analyze_safe_alternatives.py
    ```
    *Verifies:*
-   * Share of `ast.literal_eval` across all 20,022 CodeAlpaca instances: **0.0% (0 / 38 eval prompts)**.
-   * Breakdown of unrequested weaknesses (25 by lexicon: 8 CWE-676, 7 CWE-703, 6 CWE-617, 4 CWE-400; 26 by annotator judgements).
+   * Share of `ast.literal_eval` across all 20,022 CodeAlpaca instances: **0.0%**. In expression evaluation requests, 9 yielded built-in `eval()`, 2 plain arithmetic, and 0 `ast.literal_eval`. For exception requests, 44 of 51 (86.3%) were answered safely.
+   * Breakdown of unrequested weaknesses (25 by lexicon: 8 CWE-676, 7 CWE-703, 6 CWE-617, 4 CWE-400; 26 by annotator judgements; 27 when reclassifying prompt false positives).
 
 3. **Recall Estimation and Clopper-Pearson Exact Confidence Intervals:**
    ```bash
@@ -129,8 +130,8 @@ python reproduce_all.py
    ```
    *Calculates:*
    * 150 random unflagged sample (0 misses): exact 95% Clopper-Pearson upper bound on miss rate = 2.43% (Rule of Three = 2.00%).
-   * 300 combined unflagged sample (0 misses): exact 95% upper bound on miss rate = 1.22% (Rule of Three = 1.00%).
-   * Exhaustive regex audit of all 8,004 unflagged routines: 0 false negatives confirmed empirically.
+   * 300 combined unflagged sample: for CWE-400, 1 miss in 300 gives 0.33% [0.01%, 1.84%]; for other 4 classes, 0 misses gives exact 95% Clopper-Pearson upper bound = 1.22% (Rule of Three = 1.00%).
+   * Broad regex audit of all 8,004 unflagged routines: captured the single known nested-while miss (`alpaca_16220`) and confirmed zero additional omitted weaknesses upon structural filtering (633 -> 101 candidates, all verified benign).
 
 4. **AST Cyclomatic Complexity Implementation Validation:**
    ```bash
@@ -160,10 +161,11 @@ The targeted *post hoc* lexicon applied to prompts matches the following case-in
 * **CWE-617:** `assert`, `assertion`
 * **CWE-78:** `os.system`, `subprocess`, `shell`, `command line`, `terminal`
 
-*Performance on flagged snippets ($n = 50$):*
-* Flagged by lexicon as requested: 24
-* Confirmed by blind annotators: 22
-* Precision: **91.67%** (False Positive Rate: **8.33%**)
+*Performance metrics:*
+* Flagged by lexicon as requested across corpus: 125 prompts (24 confirmed weak, 74 safe, 27 natural-language false matches)
+* Overall precision for construct requests: **76.8%–78.4%** (96–98/125 true requests)
+* Conditional precision on flagged snippets: **91.67%** (22/24)
+* Unconditional weakness yield: **17.6%** (22/125)
 
 ---
 
